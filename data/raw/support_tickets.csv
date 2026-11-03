@@ -1,0 +1,1001 @@
+ticket_id,message,category,priority
+522,The application keeps crashing!,Technical,High
+738,My package has not arrived,Delivery,Low
+741,My delivery is delayed!,Delivery,Low
+661,"Hello, the delivery address is incorrect",Delivery,Medium
+412,The application keeps crashing!,Technical,Medium
+679,I received the wrong product,Delivery,Medium
+627,The delivery address is incorrect please help ,Delivery,Medium
+514,"Hello, i cannot upload my file",Technical,High
+860,Can you explain your pricing?!,General,Low
+137,my login is not working,Account,Low
+812,What are your working hours?,General,Low
+77,"Hello, i cannot verify my email",Account,Medium
+637,My package arrived damaged,Delivery,Medium
+974,What are your working hours? please help ,General,Low
+939,"Hello, i have a general question",General,Low
+900,"Hello, i have a general question",General,Low
+281,"Hello, my payment was declined",Payment,Medium
+884,I have a general question!,General,Low
+762,"Hello, i received the wrong product",Delivery,Low
+320,I have a billing problem,Payment,High
+550,The website is loading slowly please help ,Technical,Medium
+175,My login is not working,Account,High
+372,My subscription payment failed,Payment,Medium
+528,"Hello, i receive an unexpected error",Technical,High
+211,i need a refund,Payment,High
+236,I have a billing problem!,Payment,High
+102,someone accessed my account,Account,Medium
+987,Where can I find your documentation?!,General,Low
+903,"Hello, i want to learn about your services",General,Low
+948,How can I contact support?!,General,Low
+347,i cannot add my credit card,Payment,Medium
+140,"Hello, i cannot reset my password",Account,Medium
+622,"Hello, where is my package?",Delivery,Low
+500,The application stopped working please help ,Technical,Medium
+371,My subscription payment failed!,Payment,High
+199,My account has been locked!,Account,High
+688,My package arrived damaged please help ,Delivery,High
+585,The website is loading slowly!,Technical,High
+902,Where is your company located? please help ,General,Low
+60,I need to update my profile!,Account,High
+329,I cannot add my credit card,Payment,High
+97,i forgot my password,Account,Medium
+313,"Hello, my subscription payment failed",Payment,Medium
+975,"Hello, what are your working hours?",General,Low
+300,I was charged twice,Payment,High
+278,I have a billing problem,Payment,Medium
+925,how can i contact support?,General,Low
+602,I received the wrong product please help ,Delivery,High
+440,I cannot upload my file please help ,Technical,High
+838,Can you explain your pricing?!,General,Low
+571,The system is not responding please help ,Technical,High
+880,How do I create an account?,General,Low
+262,My subscription payment failed!,Payment,High
+579,"Hello, i receive an unexpected error",Technical,Medium
+24,I need to update my profile,Account,High
+31,I cannot reset my password!,Account,High
+618,My package arrived damaged please help ,Delivery,High
+11,my account has been locked,Account,Medium
+222,"Hello, my payment was declined",Payment,Medium
+821,Where is your company located?!,General,Low
+297,"Hello, i have a billing problem",Payment,High
+55,i cannot log into my account,Account,High
+543,"Hello, the system is not responding",Technical,Medium
+210,my transaction is pending,Payment,High
+605,My delivery is delayed please help ,Delivery,Low
+693,My order is missing,Delivery,Medium
+663,I want to track my order,Delivery,Medium
+867,"Hello, i want to learn about your services",General,Low
+71,I cannot reset my password please help ,Account,High
+544,"Hello, the application stopped working",Technical,Medium
+108,My account has been locked please help ,Account,Low
+494,I found a bug in the application!,Technical,High
+591,I found a bug in the application!,Technical,High
+742,My package arrived damaged!,Delivery,High
+293,I cannot add my credit card please help ,Payment,High
+290,"Hello, the invoice amount is incorrect",Payment,Medium
+653,My package arrived damaged!,Delivery,Medium
+40,my account has been locked,Account,High
+590,I found a bug in the application please help ,Technical,High
+308,I need a refund,Payment,Medium
+680,my package arrived damaged,Delivery,High
+67,I cannot reset my password!,Account,Low
+276,I need a refund,Payment,High
+68,I cannot log into my account,Account,High
+319,"Hello, i was charged twice",Payment,High
+549,I cannot upload my file please help ,Technical,High
+999,Can you explain your pricing?!,General,Low
+715,My package arrived damaged,Delivery,High
+754,My package arrived damaged,Delivery,Medium
+328,"Hello, i was charged twice",Payment,High
+383,my transaction is pending,Payment,Medium
+452,I receive an unexpected error!,Technical,High
+523,I found a bug in the application please help ,Technical,Medium
+219,I was charged twice!,Payment,High
+788,"Hello, my package arrived damaged",Delivery,Low
+437,I receive an unexpected error!,Technical,High
+765,My delivery is delayed!,Delivery,High
+89,"Hello, i cannot log into my account",Account,Medium
+64,My login is not working,Account,Low
+827,Where is your company located?!,General,Low
+717,My delivery is delayed!,Delivery,Medium
+352,I cannot add my credit card please help ,Payment,Medium
+937,I want to learn about your services!,General,Low
+257,"Hello, i cannot add my credit card",Payment,High
+636,My package arrived damaged!,Delivery,Medium
+645,my delivery is delayed,Delivery,Low
+555,"Hello, the website is loading slowly",Technical,Medium
+960,how can i contact support?,General,Low
+169,"Hello, i cannot reset my password",Account,High
+918,"Hello, where is your company located?",General,Low
+529,I receive an unexpected error please help ,Technical,Medium
+824,How do I create an account?!,General,Low
+986,Where can I find your documentation?!,General,Low
+817,"Hello, how can i contact support?",General,Low
+87,my login is not working,Account,Medium
+433,The application shows a blank screen!,Technical,High
+185,I need to update my profile please help ,Account,Medium
+979,"Hello, where can i find your documentation?",General,Low
+535,i found a bug in the application,Technical,High
+295,"Hello, i have a billing problem",Payment,High
+893,I have a general question please help ,General,Low
+426,"Hello, i receive an unexpected error",Technical,Medium
+714,i received the wrong product,Delivery,Medium
+261,i was charged twice,Payment,High
+238,My payment was declined,Payment,Medium
+560,"Hello, i found a bug in the application",Technical,Medium
+584,"Hello, i found a bug in the application",Technical,High
+446,The website is loading slowly please help ,Technical,Medium
+868,i want to learn about your services,General,Low
+801,What are your working hours?!,General,Low
+600,"Hello, the application stopped working",Technical,Medium
+850,I have a general question please help ,General,Low
+266,i was charged twice,Payment,High
+996,Can you explain your pricing?,General,Low
+530,The application keeps crashing please help ,Technical,High
+56,I forgot my password,Account,High
+121,i need to update my profile,Account,High
+216,My payment was declined please help ,Payment,Medium
+26,i cannot reset my password,Account,Medium
+73,My account has been locked!,Account,High
+45,I need to update my profile please help ,Account,Low
+248,I cannot add my credit card!,Payment,Medium
+722,I want to track my order,Delivery,High
+282,I cannot add my credit card,Payment,High
+894,How can I contact support?!,General,Low
+915,I have a general question,General,Low
+811,How do I create an account?,General,Low
+245,i was charged twice,Payment,Medium
+823,What are your working hours?,General,Low
+322,I have a billing problem please help ,Payment,Medium
+644,My package has not arrived,Delivery,High
+159,"Hello, i need to update my profile",Account,High
+978,"Hello, where can i find your documentation?",General,Low
+430,The application keeps crashing,Technical,Medium
+942,"Hello, i have a general question",General,Low
+463,The application stopped working,Technical,Medium
+310,My payment was declined please help ,Payment,Medium
+698,My order is missing please help ,Delivery,High
+61,i cannot verify my email,Account,High
+885,I want to learn about your services please help ,General,Low
+596,"Hello, the application keeps crashing",Technical,Medium
+768,Where is my package?,Delivery,Low
+650,I received the wrong product!,Delivery,Low
+651,"Hello, my order is missing",Delivery,High
+866,Where is your company located?!,General,Low
+669,my package has not arrived,Delivery,Low
+299,"Hello, i cannot add my credit card",Payment,Medium
+690,My order is missing please help ,Delivery,High
+315,"Hello, my transaction is pending",Payment,High
+311,i have a billing problem,Payment,Medium
+362,My subscription payment failed please help ,Payment,High
+480,I cannot upload my file please help ,Technical,High
+111,I need to update my profile!,Account,High
+990,Can you explain your pricing?!,General,Low
+487,The application keeps crashing please help ,Technical,Medium
+364,The invoice amount is incorrect!,Payment,High
+255,"Hello, i have a billing problem",Payment,Medium
+260,i need a refund,Payment,Medium
+803,How can I contact support?,General,Low
+678,where is my package?,Delivery,Medium
+495,The application stopped working,Technical,Medium
+671,My package arrived damaged,Delivery,High
+378,My transaction is pending,Payment,Medium
+527,The website is loading slowly!,Technical,High
+846,how do i create an account?,General,Low
+138,My login is not working please help ,Account,Medium
+356,I cannot add my credit card please help ,Payment,High
+366,My subscription payment failed,Payment,High
+943,What are your working hours?!,General,Low
+750,I received the wrong product!,Delivery,Low
+949,How can I contact support?!,General,Low
+830,I want to learn about your services!,General,Low
+657,My package has not arrived please help ,Delivery,Medium
+200,"Hello, i cannot log into my account",Account,High
+214,I need a refund!,Payment,High
+409,The application stopped working,Technical,High
+333,i need a refund,Payment,High
+209,I was charged twice,Payment,High
+614,Where is my package?,Delivery,Medium
+79,I cannot verify my email please help ,Account,Low
+30,I cannot verify my email please help ,Account,Low
+536,The application stopped working,Technical,Medium
+696,Where is my package? please help ,Delivery,Medium
+558,the website is loading slowly,Technical,Medium
+837,Where is your company located?,General,Low
+597,"Hello, i cannot upload my file",Technical,High
+166,Someone accessed my account,Account,Low
+919,"Hello, can you explain your pricing?",General,Low
+496,the system is not responding,Technical,Medium
+825,what are your working hours?,General,Low
+66,I cannot log into my account!,Account,High
+142,Someone accessed my account!,Account,Medium
+926,Can you explain your pricing? please help ,General,Low
+828,"Hello, i want to learn about your services",General,Low
+656,I want to track my order!,Delivery,Medium
+332,i need a refund,Payment,Medium
+665,my package arrived damaged,Delivery,Low
+250,My transaction is pending please help ,Payment,High
+908,I have a general question!,General,Low
+709,my package has not arrived,Delivery,High
+306,i have a billing problem,Payment,Medium
+735,The delivery address is incorrect!,Delivery,Medium
+976,i want to learn about your services,General,Low
+50,i cannot reset my password,Account,Medium
+897,"Hello, what are your working hours?",General,Low
+3,My account has been locked,Account,High
+545,"Hello, i found a bug in the application",Technical,Medium
+351,the invoice amount is incorrect,Payment,High
+905,Where can I find your documentation?!,General,Low
+537,The application shows a blank screen,Technical,High
+345,My subscription payment failed please help ,Payment,High
+995,Where can I find your documentation? please help ,General,Low
+482,The system is not responding please help ,Technical,Medium
+576,The system is not responding!,Technical,Medium
+34,my login is not working,Account,Medium
+32,someone accessed my account,Account,High
+232,My transaction is pending please help ,Payment,Medium
+964,can you explain your pricing?,General,Low
+193,My login is not working,Account,Medium
+334,I was charged twice!,Payment,Medium
+4,I forgot my password!,Account,Medium
+205,The invoice amount is incorrect please help ,Payment,Medium
+515,"Hello, the application stopped working",Technical,High
+800,I want to track my order!,Delivery,Medium
+307,"Hello, i need a refund",Payment,High
+110,"Hello, my account has been locked",Account,High
+431,"Hello, the application stopped working",Technical,Medium
+78,I cannot log into my account,Account,Low
+85,I cannot log into my account,Account,Low
+287,I have a billing problem,Payment,Medium
+83,I cannot reset my password,Account,Medium
+992,"Hello, where is your company located?",General,Low
+790,my package arrived damaged,Delivery,High
+895,Where is your company located?!,General,Low
+399,I need a refund,Payment,High
+324,My subscription payment failed please help ,Payment,Medium
+520,"Hello, the application shows a blank screen",Technical,Medium
+917,how do i create an account?,General,Low
+923,How can I contact support? please help ,General,Low
+6,i cannot reset my password,Account,High
+732,I received the wrong product!,Delivery,Medium
+466,"Hello, i cannot upload my file",Technical,Medium
+98,I forgot my password!,Account,Low
+267,I cannot add my credit card,Payment,High
+358,"Hello, my transaction is pending",Payment,Medium
+869,How do I create an account? please help ,General,Low
+799,The delivery address is incorrect,Delivery,Low
+381,I need a refund!,Payment,High
+632,my package arrived damaged,Delivery,High
+382,I was charged twice!,Payment,High
+491,I cannot upload my file,Technical,High
+119,I cannot verify my email please help ,Account,Low
+901,I want to learn about your services please help ,General,Low
+251,I cannot add my credit card,Payment,High
+524,The application keeps crashing!,Technical,Medium
+10,I cannot verify my email please help ,Account,Medium
+197,"Hello, i cannot log into my account",Account,Medium
+604,I received the wrong product please help ,Delivery,High
+82,My account has been locked please help ,Account,Medium
+784,My package has not arrived please help ,Delivery,Low
+588,I cannot upload my file,Technical,Medium
+798,Where is my package?!,Delivery,High
+240,I cannot add my credit card!,Payment,Medium
+291,"Hello, i cannot add my credit card",Payment,High
+212,I have a billing problem,Payment,High
+718,"Hello, where is my package?",Delivery,Low
+360,I cannot add my credit card!,Payment,High
+450,The system is not responding,Technical,Medium
+228,I was charged twice please help ,Payment,Medium
+951,can you explain your pricing?,General,Low
+947,Where is your company located? please help ,General,Low
+797,"Hello, my package arrived damaged",Delivery,Low
+502,I found a bug in the application please help ,Technical,High
+465,The application keeps crashing please help ,Technical,High
+363,"Hello, my transaction is pending",Payment,High
+469,"Hello, i receive an unexpected error",Technical,High
+936,i want to learn about your services,General,Low
+429,the application keeps crashing,Technical,High
+8,i cannot verify my email,Account,Medium
+156,I need to update my profile!,Account,Low
+542,The system is not responding please help ,Technical,High
+441,"Hello, the application keeps crashing",Technical,Medium
+483,I found a bug in the application!,Technical,High
+423,I found a bug in the application!,Technical,Medium
+779,My package arrived damaged please help ,Delivery,Low
+950,I want to learn about your services please help ,General,Low
+335,"Hello, my transaction is pending",Payment,High
+577,The application stopped working!,Technical,High
+935,Can you explain your pricing?,General,Low
+568,the application stopped working,Technical,High
+595,The application shows a blank screen!,Technical,Medium
+531,the system is not responding,Technical,High
+582,"Hello, the application stopped working",Technical,Medium
+708,My package arrived damaged!,Delivery,High
+449,the system is not responding,Technical,Medium
+454,The application shows a blank screen please help ,Technical,High
+229,"Hello, my transaction is pending",Payment,Medium
+353,i need a refund,Payment,High
+729,"Hello, the delivery address is incorrect",Delivery,Medium
+213,I have a billing problem please help ,Payment,Medium
+80,i cannot reset my password,Account,Low
+149,I cannot reset my password please help ,Account,Low
+303,"Hello, i was charged twice",Payment,High
+629,The delivery address is incorrect!,Delivery,Low
+778,My package arrived damaged,Delivery,High
+507,"Hello, the application shows a blank screen",Technical,Medium
+343,"Hello, my transaction is pending",Payment,Medium
+486,I receive an unexpected error!,Technical,Medium
+712,My delivery is delayed,Delivery,High
+134,My account has been locked please help ,Account,Medium
+704,I want to track my order please help ,Delivery,High
+312,I have a billing problem please help ,Payment,Medium
+723,My package has not arrived!,Delivery,Low
+630,Where is my package?,Delivery,Low
+1,I forgot my password,Account,High
+317,my subscription payment failed,Payment,Medium
+707,"Hello, my order is missing",Delivery,High
+548,I receive an unexpected error!,Technical,High
+873,"Hello, how do i create an account?",General,Low
+533,The system is not responding!,Technical,Medium
+478,The application keeps crashing please help ,Technical,High
+405,I receive an unexpected error please help ,Technical,Medium
+173,I cannot log into my account,Account,Medium
+126,Someone accessed my account!,Account,High
+395,I have a billing problem,Payment,High
+421,I cannot upload my file please help ,Technical,Medium
+553,The application stopped working,Technical,Medium
+904,I have a general question,General,Low
+91,my login is not working,Account,Low
+940,"Hello, where is your company located?",General,Low
+182,I need to update my profile!,Account,Medium
+275,my transaction is pending,Payment,Medium
+896,I want to learn about your services!,General,Low
+70,I cannot log into my account please help ,Account,Low
+292,I have a billing problem,Payment,Medium
+132,my account has been locked,Account,Low
+301,I need a refund please help ,Payment,High
+425,The website is loading slowly!,Technical,High
+327,"Hello, i was charged twice",Payment,High
+145,I need to update my profile,Account,Low
+424,the website is loading slowly,Technical,High
+581,I found a bug in the application please help ,Technical,High
+136,"Hello, i forgot my password",Account,Low
+451,the website is loading slowly,Technical,Medium
+165,I forgot my password please help ,Account,High
+29,I cannot reset my password,Account,Medium
+774,My order is missing please help ,Delivery,Medium
+194,"Hello, i need to update my profile",Account,Medium
+389,my payment was declined,Payment,Medium
+853,"Hello, how do i create an account?",General,Low
+170,"Hello, i forgot my password",Account,Medium
+706,my package arrived damaged,Delivery,Medium
+141,I need to update my profile,Account,Medium
+174,i cannot reset my password,Account,High
+7,I cannot log into my account!,Account,Low
+746,where is my package?,Delivery,High
+479,The system is not responding,Technical,Medium
+74,my login is not working,Account,Medium
+911,Where is your company located? please help ,General,Low
+814,I have a general question!,General,Low
+239,"Hello, my transaction is pending",Payment,High
+146,I cannot verify my email please help ,Account,High
+793,the delivery address is incorrect,Delivery,High
+235,i was charged twice,Payment,Medium
+221,The invoice amount is incorrect,Payment,Medium
+924,I have a general question,General,Low
+501,i receive an unexpected error,Technical,High
+133,"Hello, my account has been locked",Account,Low
+991,"Hello, what are your working hours?",General,Low
+775,My package arrived damaged!,Delivery,High
+186,i forgot my password,Account,Low
+42,"Hello, i cannot verify my email",Account,High
+697,"Hello, my package has not arrived",Delivery,Medium
+109,I cannot reset my password please help ,Account,Medium
+589,The application shows a blank screen!,Technical,Medium
+57,My login is not working,Account,High
+406,"Hello, i receive an unexpected error",Technical,High
+443,The application shows a blank screen!,Technical,Medium
+758,my package arrived damaged,Delivery,Low
+998,where is your company located?,General,Low
+25,My account has been locked!,Account,High
+468,I cannot upload my file,Technical,High
+540,I cannot upload my file,Technical,High
+532,the system is not responding,Technical,High
+619,Where is my package?,Delivery,Medium
+695,My package arrived damaged please help ,Delivery,Low
+927,"Hello, can you explain your pricing?",General,Low
+339,"Hello, i was charged twice",Payment,Medium
+52,I cannot log into my account!,Account,Medium
+508,"Hello, the application keeps crashing",Technical,High
+517,the application shows a blank screen,Technical,Medium
+921,I want to learn about your services please help ,General,Low
+782,I received the wrong product,Delivery,Medium
+265,I cannot add my credit card!,Payment,High
+818,I have a general question please help ,General,Low
+711,My order is missing,Delivery,High
+683,My delivery is delayed please help ,Delivery,Medium
+833,"Hello, can you explain your pricing?",General,Low
+519,I cannot upload my file,Technical,High
+448,"Hello, the website is loading slowly",Technical,High
+19,I cannot reset my password please help ,Account,Low
+716,My package has not arrived!,Delivery,Medium
+484,I cannot upload my file!,Technical,Medium
+569,I found a bug in the application,Technical,Medium
+434,"Hello, the system is not responding",Technical,High
+368,I have a billing problem,Payment,High
+84,I forgot my password,Account,High
+62,I cannot reset my password please help ,Account,Medium
+639,I want to track my order,Delivery,High
+273,i was charged twice,Payment,Medium
+286,i cannot add my credit card,Payment,Medium
+361,I have a billing problem please help ,Payment,Medium
+355,I need a refund please help ,Payment,Medium
+457,i found a bug in the application,Technical,High
+279,"Hello, i cannot add my credit card",Payment,Medium
+13,I forgot my password please help ,Account,Medium
+183,I cannot reset my password please help ,Account,Medium
+369,My transaction is pending!,Payment,High
+882,I have a general question please help ,General,Low
+616,My order is missing,Delivery,Low
+224,i have a billing problem,Payment,Medium
+573,I found a bug in the application please help ,Technical,High
+971,how do i create an account?,General,Low
+654,My order is missing please help ,Delivery,High
+546,The system is not responding!,Technical,Medium
+583,I found a bug in the application!,Technical,High
+634,my order is missing,Delivery,Medium
+177,"Hello, my account has been locked",Account,High
+666,I want to track my order!,Delivery,High
+674,"Hello, my package arrived damaged",Delivery,High
+586,i cannot upload my file,Technical,High
+874,"Hello, how do i create an account?",General,Low
+394,My payment was declined!,Payment,Medium
+164,my login is not working,Account,High
+249,i was charged twice,Payment,Medium
+635,I want to track my order!,Delivery,Medium
+886,Can you explain your pricing?!,General,Low
+670,"Hello, my delivery is delayed",Delivery,Medium
+376,I was charged twice please help ,Payment,Medium
+413,"Hello, the website is loading slowly",Technical,Medium
+75,i cannot verify my email,Account,Low
+114,I forgot my password,Account,High
+599,The website is loading slowly,Technical,High
+962,Where is your company located? please help ,General,Low
+391,I was charged twice,Payment,Medium
+105,I forgot my password,Account,Medium
+115,My account has been locked please help ,Account,Medium
+418,The system is not responding,Technical,Medium
+526,I found a bug in the application,Technical,Medium
+458,I found a bug in the application please help ,Technical,High
+410,The website is loading slowly,Technical,Medium
+93,I cannot log into my account please help ,Account,Low
+931,"Hello, where can i find your documentation?",General,Low
+90,My login is not working please help ,Account,Medium
+337,I have a billing problem please help ,Payment,High
+989,How can I contact support? please help ,General,Low
+922,"Hello, what are your working hours?",General,Low
+934,How can I contact support?,General,Low
+606,My package arrived damaged,Delivery,Medium
+594,The application keeps crashing!,Technical,Medium
+612,My package arrived damaged!,Delivery,Medium
+95,My account has been locked,Account,High
+12,I forgot my password,Account,Medium
+397,"Hello, i was charged twice",Payment,Medium
+534,"Hello, i found a bug in the application",Technical,Medium
+44,I cannot log into my account,Account,High
+43,My login is not working!,Account,Medium
+330,The invoice amount is incorrect,Payment,Medium
+168,My account has been locked,Account,Low
+498,The application shows a blank screen please help ,Technical,Medium
+877,Where can I find your documentation?!,General,Low
+598,I receive an unexpected error please help ,Technical,Medium
+757,"Hello, i want to track my order",Delivery,Low
+101,Someone accessed my account please help ,Account,Low
+427,the system is not responding,Technical,Medium
+179,I cannot verify my email!,Account,Medium
+445,I receive an unexpected error,Technical,Medium
+417,The application shows a blank screen,Technical,Medium
+871,I want to learn about your services,General,Low
+883,Where can I find your documentation? please help ,General,Low
+681,I want to track my order,Delivery,Low
+178,"Hello, someone accessed my account",Account,High
+396,"Hello, i have a billing problem",Payment,Medium
+912,I want to learn about your services!,General,Low
+794,My package has not arrived,Delivery,High
+961,Can you explain your pricing?,General,Low
+685,my package arrived damaged,Delivery,High
+384,I need a refund!,Payment,High
+957,How can I contact support? please help ,General,Low
+752,Where is my package?!,Delivery,High
+258,"Hello, i was charged twice",Payment,Medium
+539,I receive an unexpected error!,Technical,Medium
+336,"Hello, my transaction is pending",Payment,Medium
+16,I cannot verify my email,Account,High
+325,My payment was declined!,Payment,High
+759,i want to track my order,Delivery,Medium
+223,"Hello, i was charged twice",Payment,Medium
+180,"Hello, my account has been locked",Account,Medium
+984,how do i create an account?,General,Low
+23,someone accessed my account,Account,High
+357,I have a billing problem,Payment,High
+667,i want to track my order,Delivery,Low
+862,"Hello, can you explain your pricing?",General,Low
+341,I have a billing problem please help ,Payment,High
+432,"Hello, the application stopped working",Technical,Medium
+552,"Hello, i found a bug in the application",Technical,Medium
+834,I want to learn about your services,General,Low
+204,the invoice amount is incorrect,Payment,Medium
+631,"Hello, my order is missing",Delivery,High
+94,I cannot log into my account!,Account,Medium
+559,"Hello, the system is not responding",Technical,High
+69,i cannot log into my account,Account,Low
+623,My package has not arrived please help ,Delivery,High
+285,"Hello, i need a refund",Payment,Medium
+845,I have a general question,General,Low
+435,I cannot upload my file!,Technical,Medium
+154,I need to update my profile!,Account,Medium
+76,"Hello, i forgot my password",Account,Medium
+731,I received the wrong product please help ,Delivery,Low
+447,"Hello, i receive an unexpected error",Technical,Medium
+189,"Hello, i cannot verify my email",Account,Medium
+272,I cannot add my credit card please help ,Payment,Medium
+237,"Hello, i have a billing problem",Payment,Medium
+488,i found a bug in the application,Technical,Medium
+118,I need to update my profile,Account,Low
+944,"Hello, where is your company located?",General,Low
+513,i found a bug in the application,Technical,High
+826,Can you explain your pricing?,General,Low
+592,I found a bug in the application!,Technical,Medium
+127,"Hello, my account has been locked",Account,Low
+117,I need to update my profile!,Account,Medium
+474,I found a bug in the application,Technical,High
+694,my delivery is delayed,Delivery,Low
+58,my account has been locked,Account,High
+864,"Hello, i have a general question",General,Low
+913,What are your working hours?!,General,Low
+370,"Hello, my subscription payment failed",Payment,Medium
+269,I need a refund,Payment,Medium
+47,My login is not working,Account,High
+350,"Hello, i cannot add my credit card",Payment,High
+196,"Hello, i need to update my profile",Account,Medium
+1000,i have a general question,General,Low
+835,Can you explain your pricing?,General,Low
+737,my order is missing,Delivery,Medium
+264,I cannot add my credit card!,Payment,Medium
+444,"Hello, the website is loading slowly",Technical,High
+676,I want to track my order,Delivery,Low
+305,"Hello, i cannot add my credit card",Payment,Medium
+342,"Hello, my subscription payment failed",Payment,High
+967,"Hello, i have a general question",General,Low
+150,I cannot verify my email,Account,High
+125,My account has been locked!,Account,Low
+787,My order is missing please help ,Delivery,Medium
+51,My account has been locked!,Account,High
+354,The invoice amount is incorrect!,Payment,Medium
+928,Where is your company located?!,General,Low
+143,Someone accessed my account,Account,Low
+471,The system is not responding!,Technical,Medium
+400,I cannot add my credit card!,Payment,Medium
+626,my delivery is delayed,Delivery,Low
+321,my subscription payment failed,Payment,High
+20,I cannot reset my password,Account,Medium
+810,where is your company located?,General,Low
+791,Where is my package?!,Delivery,Low
+809,"Hello, i have a general question",General,Low
+408,I cannot upload my file please help ,Technical,High
+538,The application keeps crashing please help ,Technical,Medium
+621,"Hello, my order is missing",Delivery,Medium
+39,I forgot my password,Account,Low
+176,I cannot reset my password,Account,Medium
+246,I was charged twice!,Payment,High
+829,How can I contact support? please help ,General,Low
+668,my package has not arrived,Delivery,Low
+755,The delivery address is incorrect!,Delivery,Medium
+859,What are your working hours?,General,Low
+155,I cannot verify my email please help ,Account,Medium
+288,"Hello, the invoice amount is incorrect",Payment,Medium
+603,My order is missing please help ,Delivery,Medium
+570,"Hello, i found a bug in the application",Technical,High
+744,"Hello, where is my package?",Delivery,Medium
+18,I cannot reset my password,Account,Low
+128,I cannot log into my account please help ,Account,Medium
+323,My subscription payment failed,Payment,Medium
+256,the invoice amount is incorrect,Payment,High
+658,"Hello, my package has not arrived",Delivery,Medium
+965,"Hello, i have a general question",General,Low
+191,"Hello, i cannot reset my password",Account,Medium
+116,I cannot reset my password please help ,Account,Low
+617,"Hello, i want to track my order",Delivery,High
+607,my package arrived damaged,Delivery,Low
+181,i need to update my profile,Account,High
+302,My subscription payment failed,Payment,High
+760,Where is my package?!,Delivery,Medium
+713,My package has not arrived!,Delivery,High
+724,"Hello, where is my package?",Delivery,Medium
+686,My package arrived damaged please help ,Delivery,Low
+980,"Hello, where can i find your documentation?",General,Low
+518,The website is loading slowly please help ,Technical,High
+985,how do i create an account?,General,Low
+46,"Hello, i need to update my profile",Account,Low
+910,How can I contact support?,General,Low
+158,i cannot verify my email,Account,High
+852,How can I contact support?,General,Low
+172,i cannot verify my email,Account,Low
+17,I need to update my profile!,Account,Medium
+512,The system is not responding,Technical,Medium
+49,I forgot my password please help ,Account,High
+972,I want to learn about your services please help ,General,Low
+941,i want to learn about your services,General,Low
+516,The website is loading slowly,Technical,Medium
+953,"Hello, how do i create an account?",General,Low
+481,The system is not responding,Technical,High
+284,I cannot add my credit card!,Payment,High
+719,"Hello, the delivery address is incorrect",Delivery,High
+878,"Hello, where is your company located?",General,Low
+226,"Hello, i have a billing problem",Payment,Medium
+27,I cannot verify my email please help ,Account,High
+955,I have a general question!,General,Low
+438,the application keeps crashing,Technical,Medium
+952,Where can I find your documentation?,General,Low
+365,"Hello, i was charged twice",Payment,Medium
+230,The invoice amount is incorrect,Payment,Medium
+38,My account has been locked!,Account,Medium
+966,I want to learn about your services!,General,Low
+375,i have a billing problem,Payment,Medium
+470,The application stopped working!,Technical,High
+968,"Hello, i want to learn about your services",General,Low
+851,Can you explain your pricing?,General,Low
+705,my package has not arrived,Delivery,Low
+842,Where is your company located? please help ,General,Low
+195,"Hello, i cannot reset my password",Account,Low
+855,how can i contact support?,General,Low
+865,How can I contact support?!,General,Low
+504,The website is loading slowly please help ,Technical,High
+970,"Hello, i want to learn about your services",General,Low
+831,Where is your company located?!,General,Low
+580,I receive an unexpected error!,Technical,High
+969,I want to learn about your services!,General,Low
+163,my login is not working,Account,High
+909,What are your working hours? please help ,General,Low
+153,Someone accessed my account,Account,High
+802,i have a general question,General,Low
+994,How do I create an account?,General,Low
+756,"Hello, the delivery address is incorrect",Delivery,Low
+112,I cannot log into my account!,Account,Medium
+227,I cannot add my credit card please help ,Payment,High
+689,I received the wrong product,Delivery,High
+104,"Hello, i need to update my profile",Account,Medium
+422,The system is not responding,Technical,High
+420,I cannot upload my file,Technical,High
+751,The delivery address is incorrect please help ,Delivery,Medium
+587,the system is not responding,Technical,Medium
+781,Where is my package?!,Delivery,Low
+673,"Hello, i received the wrong product",Delivery,High
+120,I cannot log into my account please help ,Account,Low
+54,Someone accessed my account please help ,Account,Low
+152,I forgot my password please help ,Account,High
+404,"Hello, i receive an unexpected error",Technical,High
+946,what are your working hours?,General,Low
+208,My payment was declined please help ,Payment,High
+659,My package arrived damaged please help ,Delivery,High
+844,I want to learn about your services!,General,Low
+763,i want to track my order,Delivery,Medium
+9,I need to update my profile,Account,Low
+808,How can I contact support? please help ,General,Low
+37,I cannot verify my email please help ,Account,Low
+453,I receive an unexpected error please help ,Technical,Medium
+652,The delivery address is incorrect please help ,Delivery,Low
+254,I was charged twice,Payment,Medium
+304,"Hello, i need a refund",Payment,Medium
+747,i want to track my order,Delivery,High
+572,I cannot upload my file please help ,Technical,High
+624,I want to track my order,Delivery,Medium
+733,i received the wrong product,Delivery,Low
+892,I have a general question please help ,General,Low
+263,"Hello, my subscription payment failed",Payment,Medium
+611,my order is missing,Delivery,Low
+298,My transaction is pending please help ,Payment,High
+415,I cannot upload my file please help ,Technical,High
+151,I cannot reset my password please help ,Account,Medium
+789,my order is missing,Delivery,Low
+641,My package has not arrived,Delivery,High
+890,"Hello, how do i create an account?",General,Low
+551,"Hello, i cannot upload my file",Technical,Medium
+887,"Hello, where is your company located?",General,Low
+489,the application stopped working,Technical,High
+148,"Hello, i forgot my password",Account,High
+147,"Hello, someone accessed my account",Account,High
+721,I want to track my order,Delivery,Medium
+932,Can you explain your pricing?,General,Low
+740,my package has not arrived,Delivery,Low
+660,I want to track my order please help ,Delivery,Low
+349,I need a refund,Payment,High
+464,The application stopped working please help ,Technical,Medium
+326,My transaction is pending please help ,Payment,High
+187,"Hello, i cannot reset my password",Account,High
+124,I forgot my password,Account,High
+854,Can you explain your pricing? please help ,General,Low
+609,The delivery address is incorrect!,Delivery,Medium
+144,i need to update my profile,Account,High
+959,I want to learn about your services please help ,General,Low
+198,i cannot verify my email,Account,Medium
+610,my package has not arrived,Delivery,Medium
+280,"Hello, i have a billing problem",Payment,High
+294,My subscription payment failed!,Payment,High
+401,I receive an unexpected error!,Technical,Medium
+123,I cannot verify my email!,Account,Low
+184,I forgot my password please help ,Account,Low
+203,My payment was declined please help ,Payment,Medium
+439,the application shows a blank screen,Technical,Medium
+247,my transaction is pending,Payment,Medium
+416,the application shows a blank screen,Technical,Medium
+933,How do I create an account?,General,Low
+766,My package has not arrived,Delivery,Medium
+907,I have a general question!,General,Low
+836,"Hello, how can i contact support?",General,Low
+888,can you explain your pricing?,General,Low
+130,I cannot reset my password,Account,Medium
+638,My order is missing,Delivery,Medium
+403,The website is loading slowly,Technical,High
+785,The delivery address is incorrect!,Delivery,Low
+771,my package has not arrived,Delivery,High
+736,my package has not arrived,Delivery,Medium
+914,I have a general question please help ,General,Low
+220,The invoice amount is incorrect!,Payment,Medium
+642,my package arrived damaged,Delivery,High
+916,What are your working hours?,General,Low
+753,"Hello, i received the wrong product",Delivery,High
+807,"Hello, how do i create an account?",General,Low
+920,Where can I find your documentation?!,General,Low
+625,My package arrived damaged!,Delivery,Medium
+875,How can I contact support? please help ,General,Low
+761,The delivery address is incorrect!,Delivery,High
+387,my payment was declined,Payment,High
+973,Where can I find your documentation?!,General,Low
+510,"Hello, the application shows a blank screen",Technical,High
+268,my transaction is pending,Payment,High
+820,what are your working hours?,General,Low
+442,i found a bug in the application,Technical,Medium
+497,"Hello, i cannot upload my file",Technical,High
+113,i forgot my password,Account,Medium
+692,"Hello, the delivery address is incorrect",Delivery,High
+233,The invoice amount is incorrect please help ,Payment,Medium
+870,"Hello, how do i create an account?",General,Low
+608,My delivery is delayed,Delivery,Medium
+672,I received the wrong product,Delivery,High
+374,the invoice amount is incorrect,Payment,Medium
+982,what are your working hours?,General,Low
+843,"Hello, i have a general question",General,Low
+234,My payment was declined!,Payment,High
+786,My package arrived damaged!,Delivery,High
+677,My package has not arrived!,Delivery,High
+318,my payment was declined,Payment,Medium
+649,My package arrived damaged,Delivery,High
+411,The website is loading slowly please help ,Technical,High
+899,How do I create an account?,General,Low
+710,My delivery is delayed!,Delivery,Medium
+359,"Hello, i was charged twice",Payment,High
+259,I was charged twice!,Payment,High
+745,My package has not arrived!,Delivery,Low
+628,my order is missing,Delivery,Low
+633,I received the wrong product please help ,Delivery,High
+283,My transaction is pending!,Payment,High
+377,"Hello, my payment was declined",Payment,Medium
+385,i cannot add my credit card,Payment,High
+225,I need a refund!,Payment,Medium
+954,Can you explain your pricing?!,General,Low
+815,Where can I find your documentation?,General,Low
+473,The website is loading slowly please help ,Technical,High
+348,my transaction is pending,Payment,Medium
+506,"Hello, i found a bug in the application",Technical,High
+640,My package arrived damaged please help ,Delivery,High
+988,How can I contact support?!,General,Low
+929,Where can I find your documentation? please help ,General,Low
+906,Where can I find your documentation?!,General,Low
+620,I received the wrong product please help ,Delivery,High
+856,how can i contact support?,General,Low
+804,i want to learn about your services,General,Low
+646,My package arrived damaged please help ,Delivery,Medium
+847,How can I contact support?,General,Low
+557,The application stopped working,Technical,High
+958,"Hello, can you explain your pricing?",General,Low
+578,The website is loading slowly,Technical,Medium
+796,My package arrived damaged please help ,Delivery,Low
+86,"Hello, my account has been locked",Account,Medium
+243,"Hello, the invoice amount is incorrect",Payment,Medium
+699,Where is my package? please help ,Delivery,High
+160,I cannot log into my account please help ,Account,Medium
+525,The application shows a blank screen!,Technical,Medium
+36,I need to update my profile!,Account,Medium
+541,I cannot upload my file please help ,Technical,High
+171,"Hello, i cannot reset my password",Account,Medium
+655,my package arrived damaged,Delivery,Low
+891,Where is your company located? please help ,General,Low
+858,I have a general question,General,Low
+848,how do i create an account?,General,Low
+945,"Hello, i have a general question",General,Low
+734,Where is my package? please help ,Delivery,Medium
+96,i forgot my password,Account,Low
+564,The application shows a blank screen,Technical,High
+241,I have a billing problem!,Payment,Medium
+743,where is my package?,Delivery,High
+575,"Hello, the application shows a blank screen",Technical,High
+691,my package has not arrived,Delivery,High
+461,The application stopped working!,Technical,Medium
+554,I receive an unexpected error please help ,Technical,High
+889,I have a general question please help ,General,Low
+207,"Hello, i was charged twice",Payment,High
+393,I have a billing problem!,Payment,High
+795,I received the wrong product,Delivery,Low
+398,I was charged twice,Payment,Medium
+767,The delivery address is incorrect!,Delivery,High
+849,i have a general question,General,Low
+218,My transaction is pending,Payment,Medium
+5,I cannot log into my account,Account,Low
+769,"Hello, my package has not arrived",Delivery,Low
+643,the delivery address is incorrect,Delivery,High
+930,Where can I find your documentation?,General,Low
+613,My package arrived damaged please help ,Delivery,Medium
+739,The delivery address is incorrect!,Delivery,Low
+547,"Hello, the website is loading slowly",Technical,High
+726,"Hello, my delivery is delayed",Delivery,Low
+684,My package arrived damaged!,Delivery,High
+99,I cannot log into my account!,Account,Low
+805,Where is your company located?!,General,Low
+728,"Hello, i received the wrong product",Delivery,Medium
+574,the website is loading slowly,Technical,High
+407,"Hello, the system is not responding",Technical,Medium
+503,The application stopped working please help ,Technical,High
+48,I need to update my profile!,Account,Low
+33,"Hello, my login is not working",Account,High
+780,My order is missing please help ,Delivery,Medium
+840,What are your working hours? please help ,General,Low
+201,My payment was declined,Payment,Medium
+135,I cannot reset my password please help ,Account,Low
+28,I cannot reset my password please help ,Account,Low
+881,I have a general question please help ,General,Low
+231,the invoice amount is incorrect,Payment,Medium
+490,i found a bug in the application,Technical,High
+773,"Hello, my package has not arrived",Delivery,Low
+379,i was charged twice,Payment,High
+289,The invoice amount is incorrect,Payment,High
+419,"Hello, the application shows a blank screen",Technical,High
+675,My package has not arrived please help ,Delivery,Medium
+392,I have a billing problem please help ,Payment,High
+593,The application keeps crashing,Technical,High
+499,The application shows a blank screen please help ,Technical,Medium
+139,i cannot reset my password,Account,Low
+63,"Hello, someone accessed my account",Account,High
+472,I found a bug in the application,Technical,Medium
+648,"Hello, my package has not arrived",Delivery,High
+129,I cannot log into my account please help ,Account,Low
+977,I have a general question!,General,Low
+521,The website is loading slowly,Technical,Medium
+839,I have a general question please help ,General,Low
+963,how can i contact support?,General,Low
+65,I cannot reset my password,Account,Medium
+813,"Hello, i have a general question",General,Low
+15,My login is not working!,Account,Low
+157,"Hello, i cannot reset my password",Account,High
+41,I cannot verify my email!,Account,Low
+493,i receive an unexpected error,Technical,High
+380,My payment was declined please help ,Payment,High
+188,my account has been locked,Account,Low
+764,"Hello, my delivery is delayed",Delivery,Medium
+217,my subscription payment failed,Payment,High
+792,My delivery is delayed,Delivery,Low
+53,My login is not working,Account,Low
+879,how can i contact support?,General,Low
+338,I have a billing problem please help ,Payment,High
+749,my order is missing,Delivery,Medium
+720,Where is my package?!,Delivery,Medium
+725,My delivery is delayed!,Delivery,Low
+296,My transaction is pending!,Payment,Medium
+702,"Hello, i received the wrong product",Delivery,High
+252,I cannot add my credit card,Payment,High
+727,"Hello, i want to track my order",Delivery,Low
+462,The system is not responding please help ,Technical,High
+456,The application shows a blank screen please help ,Technical,Medium
+997,Where can I find your documentation?,General,Low
+816,what are your working hours?,General,Low
+863,What are your working hours? please help ,General,Low
+270,I have a billing problem!,Payment,Medium
+202,"Hello, i need a refund",Payment,High
+162,"Hello, someone accessed my account",Account,Medium
+556,I found a bug in the application,Technical,High
+730,The delivery address is incorrect,Delivery,High
+402,The application stopped working!,Technical,Medium
+703,I want to track my order,Delivery,High
+477,"Hello, i receive an unexpected error",Technical,Medium
+822,Where can I find your documentation? please help ,General,Low
+772,"Hello, my delivery is delayed",Delivery,Low
+106,I forgot my password,Account,High
+566,The website is loading slowly please help ,Technical,Medium
+390,my payment was declined,Payment,Medium
+2,i need to update my profile,Account,Low
+938,I want to learn about your services please help ,General,Low
+983,How do I create an account?,General,Low
+562,I found a bug in the application!,Technical,Medium
+81,my login is not working,Account,Medium
+206,"Hello, i cannot add my credit card",Payment,Medium
+35,my account has been locked,Account,High
+776,My order is missing please help ,Delivery,Medium
+509,I receive an unexpected error!,Technical,Medium
+428,I cannot upload my file please help ,Technical,High
+455,The website is loading slowly!,Technical,High
+367,My payment was declined,Payment,Medium
+92,i need to update my profile,Account,Low
+340,"Hello, i cannot add my credit card",Payment,Medium
+898,"Hello, where is your company located?",General,Low
+565,"Hello, i found a bug in the application",Technical,Medium
+346,My payment was declined!,Payment,Medium
+777,My order is missing!,Delivery,Medium
+242,My subscription payment failed!,Payment,Medium
+14,I need to update my profile,Account,High
+316,"Hello, the invoice amount is incorrect",Payment,Medium
+601,my package arrived damaged,Delivery,Medium
+388,the invoice amount is incorrect,Payment,Medium
+274,"Hello, my transaction is pending",Payment,High
+167,i need to update my profile,Account,Low
+841,"Hello, where can i find your documentation?",General,Low
+993,how can i contact support?,General,Low
+647,"Hello, i received the wrong product",Delivery,High
+819,How can I contact support?!,General,Low
+485,the system is not responding,Technical,High
+981,I want to learn about your services,General,Low
+505,I found a bug in the application please help ,Technical,Medium
+832,I have a general question!,General,Low
+244,I cannot add my credit card please help ,Payment,High
+567,the application stopped working,Technical,Medium
+876,how do i create an account?,General,Low
+563,I receive an unexpected error please help ,Technical,Medium
+687,My delivery is delayed please help ,Delivery,Low
+190,"Hello, my login is not working",Account,Low
+783,The delivery address is incorrect please help ,Delivery,Low
+700,my order is missing,Delivery,Low
+476,The system is not responding please help ,Technical,Medium
+682,I want to track my order!,Delivery,High
+511,the system is not responding,Technical,High
+59,My login is not working!,Account,Low
+475,"Hello, the application stopped working",Technical,High
+561,"Hello, the system is not responding",Technical,High
+857,"Hello, i have a general question",General,Low
+748,My order is missing!,Delivery,High
+253,i cannot add my credit card,Payment,Medium
+22,someone accessed my account,Account,Medium
+314,my transaction is pending,Payment,Medium
+460,the website is loading slowly,Technical,Medium
+161,"Hello, i cannot reset my password",Account,High
+277,I need a refund please help ,Payment,Medium
+956,I have a general question!,General,Low
+192,I cannot log into my account!,Account,Medium
+386,i cannot add my credit card,Payment,High
+806,How do I create an account? please help ,General,Low
+414,I receive an unexpected error,Technical,Medium
+492,The system is not responding!,Technical,High
+344,I cannot add my credit card please help ,Payment,High
+770,My order is missing please help ,Delivery,Low
+309,My subscription payment failed please help ,Payment,Medium
+662,I received the wrong product please help ,Delivery,Low
+131,I cannot verify my email!,Account,High
+664,My package arrived damaged please help ,Delivery,High
+872,"Hello, i want to learn about your services",General,Low
+100,I cannot verify my email!,Account,High
+373,My subscription payment failed please help ,Payment,High
+88,i cannot log into my account,Account,Medium
+459,I found a bug in the application!,Technical,High
+331,The invoice amount is incorrect please help ,Payment,Medium
+215,I need a refund please help ,Payment,High
+467,The application keeps crashing,Technical,Medium
+122,My login is not working!,Account,High
+615,my package arrived damaged,Delivery,Low
+21,"Hello, i need to update my profile",Account,High
+701,"Hello, my delivery is delayed",Delivery,Medium
+72,my login is not working,Account,High
+107,I cannot reset my password!,Account,Medium
+271,I cannot add my credit card,Payment,High
+861,How can I contact support?!,General,Low
+436,I cannot upload my file,Technical,High
+103,i cannot verify my email,Account,High
