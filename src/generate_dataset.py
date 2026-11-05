@@ -69,7 +69,8 @@ for category, messages in templates.items():
 
     for i in range(200):
 
-        message = random.choice(messages)
+        template_index = random.randrange(len(messages))
+        message = messages[template_index]
 
         variations = [
             message,
@@ -94,7 +95,8 @@ for category, messages in templates.items():
             "ticket_id" : ticket_id,
             "message" : selected_message,
             "category" : category,
-            "priority" : priority
+            "priority" : priority,
+            "template_id" : f"{category}_{template_index}"
         })
 
         ticket_id += 1
