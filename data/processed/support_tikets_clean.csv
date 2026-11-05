@@ -1,16 +1,16 @@
 ticket_id,message,category,priority,template_id,cleaned_message
-522,The application keeps crashing!,Technical,High,Technical_0,the application keeps crashing
+522,The application keeps crashing!,Technical,Low,Technical_0,the application keeps crashing
 738,My package has not arrived,Delivery,Low,Delivery_3,my package has not arrived
-741,My delivery is delayed!,Delivery,Low,Delivery_1,my delivery is delayed
-661,"Hello, the delivery address is incorrect",Delivery,Medium,Delivery_6,hello the delivery address is incorrect
-412,The application keeps crashing!,Technical,Medium,Technical_0,the application keeps crashing
-679,I received the wrong product,Delivery,Medium,Delivery_2,i received the wrong product
-627,The delivery address is incorrect please help ,Delivery,Medium,Delivery_6,the delivery address is incorrect please help
-514,"Hello, i cannot upload my file",Technical,High,Technical_4,hello i cannot upload my file
+741,My delivery is delayed!,Delivery,Medium,Delivery_1,my delivery is delayed
+661,"Hello, the delivery address is incorrect",Delivery,Low,Delivery_6,hello the delivery address is incorrect
+412,The application keeps crashing!,Technical,Low,Technical_0,the application keeps crashing
+679,I received the wrong product,Delivery,Low,Delivery_2,i received the wrong product
+627,The delivery address is incorrect please help ,Delivery,Low,Delivery_6,the delivery address is incorrect please help
+514,"Hello, i cannot upload my file",Technical,Low,Technical_4,hello i cannot upload my file
 860,Can you explain your pricing?!,General,Low,General_5,can you explain your pricing
-137,my login is not working,Account,Low,Account_7,my login is not working
+137,my login is not working,Account,Medium,Account_7,my login is not working
 812,What are your working hours?,General,Low,General_0,what are your working hours
-77,"Hello, i cannot verify my email",Account,Medium,Account_6,hello i cannot verify my email
+77,"Hello, i cannot verify my email",Account,Low,Account_6,hello i cannot verify my email
 637,My package arrived damaged,Delivery,Medium,Delivery_7,my package arrived damaged
 974,What are your working hours? please help ,General,Low,General_0,what are your working hours please help
 939,"Hello, i have a general question",General,Low,General_6,hello i have a general question
@@ -18,633 +18,633 @@ ticket_id,message,category,priority,template_id,cleaned_message
 281,"Hello, my payment was declined",Payment,Medium,Payment_0,hello my payment was declined
 884,I have a general question!,General,Low,General_6,i have a general question
 762,"Hello, i received the wrong product",Delivery,Low,Delivery_2,hello i received the wrong product
-320,I have a billing problem,Payment,High,Payment_7,i have a billing problem
-550,The website is loading slowly please help ,Technical,Medium,Technical_1,the website is loading slowly please help
-175,My login is not working,Account,High,Account_7,my login is not working
+320,I have a billing problem,Payment,Low,Payment_7,i have a billing problem
+550,The website is loading slowly please help ,Technical,Low,Technical_1,the website is loading slowly please help
+175,My login is not working,Account,Medium,Account_7,my login is not working
 372,My subscription payment failed,Payment,Medium,Payment_6,my subscription payment failed
-528,"Hello, i receive an unexpected error",Technical,High,Technical_6,hello i receive an unexpected error
-211,i need a refund,Payment,High,Payment_2,i need a refund
-236,I have a billing problem!,Payment,High,Payment_7,i have a billing problem
-102,someone accessed my account,Account,Medium,Account_5,someone accessed my account
+528,"Hello, i receive an unexpected error",Technical,Medium,Technical_6,hello i receive an unexpected error
+211,i need a refund,Payment,Low,Payment_2,i need a refund
+236,I have a billing problem!,Payment,Low,Payment_7,i have a billing problem
+102,someone accessed my account,Account,Low,Account_5,someone accessed my account
 987,Where can I find your documentation?!,General,Low,General_7,where can i find your documentation
 903,"Hello, i want to learn about your services",General,Low,General_2,hello i want to learn about your services
 948,How can I contact support?!,General,Low,General_1,how can i contact support
-347,i cannot add my credit card,Payment,Medium,Payment_4,i cannot add my credit card
-140,"Hello, i cannot reset my password",Account,Medium,Account_3,hello i cannot reset my password
+347,i cannot add my credit card,Payment,Low,Payment_4,i cannot add my credit card
+140,"Hello, i cannot reset my password",Account,Low,Account_3,hello i cannot reset my password
 622,"Hello, where is my package?",Delivery,Low,Delivery_0,hello where is my package
-500,The application stopped working please help ,Technical,Medium,Technical_7,the application stopped working please help
-371,My subscription payment failed!,Payment,High,Payment_6,my subscription payment failed
-199,My account has been locked!,Account,High,Account_2,my account has been locked
-688,My package arrived damaged please help ,Delivery,High,Delivery_7,my package arrived damaged please help
-585,The website is loading slowly!,Technical,High,Technical_1,the website is loading slowly
+500,The application stopped working please help ,Technical,Low,Technical_7,the application stopped working please help
+371,My subscription payment failed!,Payment,Medium,Payment_6,my subscription payment failed
+199,My account has been locked!,Account,Low,Account_2,my account has been locked
+688,My package arrived damaged please help ,Delivery,Medium,Delivery_7,my package arrived damaged please help
+585,The website is loading slowly!,Technical,Low,Technical_1,the website is loading slowly
 902,Where is your company located? please help ,General,Low,General_3,where is your company located please help
-60,I need to update my profile!,Account,High,Account_4,i need to update my profile
-329,I cannot add my credit card,Payment,High,Payment_4,i cannot add my credit card
-97,i forgot my password,Account,Medium,Account_1,i forgot my password
+60,I need to update my profile!,Account,Low,Account_4,i need to update my profile
+329,I cannot add my credit card,Payment,Low,Payment_4,i cannot add my credit card
+97,i forgot my password,Account,Low,Account_1,i forgot my password
 313,"Hello, my subscription payment failed",Payment,Medium,Payment_6,hello my subscription payment failed
 975,"Hello, what are your working hours?",General,Low,General_0,hello what are your working hours
-300,I was charged twice,Payment,High,Payment_1,i was charged twice
-278,I have a billing problem,Payment,Medium,Payment_7,i have a billing problem
+300,I was charged twice,Payment,Low,Payment_1,i was charged twice
+278,I have a billing problem,Payment,Low,Payment_7,i have a billing problem
 925,how can i contact support?,General,Low,General_1,how can i contact support
-602,I received the wrong product please help ,Delivery,High,Delivery_2,i received the wrong product please help
-440,I cannot upload my file please help ,Technical,High,Technical_4,i cannot upload my file please help
+602,I received the wrong product please help ,Delivery,Low,Delivery_2,i received the wrong product please help
+440,I cannot upload my file please help ,Technical,Low,Technical_4,i cannot upload my file please help
 838,Can you explain your pricing?!,General,Low,General_5,can you explain your pricing
-571,The system is not responding please help ,Technical,High,Technical_5,the system is not responding please help
+571,The system is not responding please help ,Technical,Low,Technical_5,the system is not responding please help
 880,How do I create an account?,General,Low,General_4,how do i create an account
-262,My subscription payment failed!,Payment,High,Payment_6,my subscription payment failed
+262,My subscription payment failed!,Payment,Medium,Payment_6,my subscription payment failed
 579,"Hello, i receive an unexpected error",Technical,Medium,Technical_6,hello i receive an unexpected error
-24,I need to update my profile,Account,High,Account_4,i need to update my profile
-31,I cannot reset my password!,Account,High,Account_3,i cannot reset my password
-618,My package arrived damaged please help ,Delivery,High,Delivery_7,my package arrived damaged please help
-11,my account has been locked,Account,Medium,Account_2,my account has been locked
+24,I need to update my profile,Account,Low,Account_4,i need to update my profile
+31,I cannot reset my password!,Account,Low,Account_3,i cannot reset my password
+618,My package arrived damaged please help ,Delivery,Medium,Delivery_7,my package arrived damaged please help
+11,my account has been locked,Account,Low,Account_2,my account has been locked
 222,"Hello, my payment was declined",Payment,Medium,Payment_0,hello my payment was declined
 821,Where is your company located?!,General,Low,General_3,where is your company located
-297,"Hello, i have a billing problem",Payment,High,Payment_7,hello i have a billing problem
-55,i cannot log into my account,Account,High,Account_0,i cannot log into my account
-543,"Hello, the system is not responding",Technical,Medium,Technical_5,hello the system is not responding
-210,my transaction is pending,Payment,High,Payment_3,my transaction is pending
-605,My delivery is delayed please help ,Delivery,Low,Delivery_1,my delivery is delayed please help
+297,"Hello, i have a billing problem",Payment,Low,Payment_7,hello i have a billing problem
+55,i cannot log into my account,Account,Low,Account_0,i cannot log into my account
+543,"Hello, the system is not responding",Technical,Low,Technical_5,hello the system is not responding
+210,my transaction is pending,Payment,Low,Payment_3,my transaction is pending
+605,My delivery is delayed please help ,Delivery,Medium,Delivery_1,my delivery is delayed please help
 693,My order is missing,Delivery,Medium,Delivery_5,my order is missing
-663,I want to track my order,Delivery,Medium,Delivery_4,i want to track my order
+663,I want to track my order,Delivery,Low,Delivery_4,i want to track my order
 867,"Hello, i want to learn about your services",General,Low,General_2,hello i want to learn about your services
-71,I cannot reset my password please help ,Account,High,Account_3,i cannot reset my password please help
-544,"Hello, the application stopped working",Technical,Medium,Technical_7,hello the application stopped working
+71,I cannot reset my password please help ,Account,Low,Account_3,i cannot reset my password please help
+544,"Hello, the application stopped working",Technical,Low,Technical_7,hello the application stopped working
 108,My account has been locked please help ,Account,Low,Account_2,my account has been locked please help
-494,I found a bug in the application!,Technical,High,Technical_2,i found a bug in the application
-591,I found a bug in the application!,Technical,High,Technical_2,i found a bug in the application
-742,My package arrived damaged!,Delivery,High,Delivery_7,my package arrived damaged
-293,I cannot add my credit card please help ,Payment,High,Payment_4,i cannot add my credit card please help
-290,"Hello, the invoice amount is incorrect",Payment,Medium,Payment_5,hello the invoice amount is incorrect
+494,I found a bug in the application!,Technical,Low,Technical_2,i found a bug in the application
+591,I found a bug in the application!,Technical,Low,Technical_2,i found a bug in the application
+742,My package arrived damaged!,Delivery,Medium,Delivery_7,my package arrived damaged
+293,I cannot add my credit card please help ,Payment,Low,Payment_4,i cannot add my credit card please help
+290,"Hello, the invoice amount is incorrect",Payment,Low,Payment_5,hello the invoice amount is incorrect
 653,My package arrived damaged!,Delivery,Medium,Delivery_7,my package arrived damaged
-40,my account has been locked,Account,High,Account_2,my account has been locked
-590,I found a bug in the application please help ,Technical,High,Technical_2,i found a bug in the application please help
-308,I need a refund,Payment,Medium,Payment_2,i need a refund
-680,my package arrived damaged,Delivery,High,Delivery_7,my package arrived damaged
+40,my account has been locked,Account,Low,Account_2,my account has been locked
+590,I found a bug in the application please help ,Technical,Low,Technical_2,i found a bug in the application please help
+308,I need a refund,Payment,Low,Payment_2,i need a refund
+680,my package arrived damaged,Delivery,Medium,Delivery_7,my package arrived damaged
 67,I cannot reset my password!,Account,Low,Account_3,i cannot reset my password
-276,I need a refund,Payment,High,Payment_2,i need a refund
-68,I cannot log into my account,Account,High,Account_0,i cannot log into my account
-319,"Hello, i was charged twice",Payment,High,Payment_1,hello i was charged twice
-549,I cannot upload my file please help ,Technical,High,Technical_4,i cannot upload my file please help
+276,I need a refund,Payment,Low,Payment_2,i need a refund
+68,I cannot log into my account,Account,Low,Account_0,i cannot log into my account
+319,"Hello, i was charged twice",Payment,Low,Payment_1,hello i was charged twice
+549,I cannot upload my file please help ,Technical,Low,Technical_4,i cannot upload my file please help
 999,Can you explain your pricing?!,General,Low,General_5,can you explain your pricing
-715,My package arrived damaged,Delivery,High,Delivery_7,my package arrived damaged
+715,My package arrived damaged,Delivery,Medium,Delivery_7,my package arrived damaged
 754,My package arrived damaged,Delivery,Medium,Delivery_7,my package arrived damaged
-328,"Hello, i was charged twice",Payment,High,Payment_1,hello i was charged twice
-383,my transaction is pending,Payment,Medium,Payment_3,my transaction is pending
-452,I receive an unexpected error!,Technical,High,Technical_6,i receive an unexpected error
-523,I found a bug in the application please help ,Technical,Medium,Technical_2,i found a bug in the application please help
-219,I was charged twice!,Payment,High,Payment_1,i was charged twice
-788,"Hello, my package arrived damaged",Delivery,Low,Delivery_7,hello my package arrived damaged
-437,I receive an unexpected error!,Technical,High,Technical_6,i receive an unexpected error
-765,My delivery is delayed!,Delivery,High,Delivery_1,my delivery is delayed
-89,"Hello, i cannot log into my account",Account,Medium,Account_0,hello i cannot log into my account
-64,My login is not working,Account,Low,Account_7,my login is not working
+328,"Hello, i was charged twice",Payment,Low,Payment_1,hello i was charged twice
+383,my transaction is pending,Payment,Low,Payment_3,my transaction is pending
+452,I receive an unexpected error!,Technical,Medium,Technical_6,i receive an unexpected error
+523,I found a bug in the application please help ,Technical,Low,Technical_2,i found a bug in the application please help
+219,I was charged twice!,Payment,Low,Payment_1,i was charged twice
+788,"Hello, my package arrived damaged",Delivery,Medium,Delivery_7,hello my package arrived damaged
+437,I receive an unexpected error!,Technical,Medium,Technical_6,i receive an unexpected error
+765,My delivery is delayed!,Delivery,Medium,Delivery_1,my delivery is delayed
+89,"Hello, i cannot log into my account",Account,Low,Account_0,hello i cannot log into my account
+64,My login is not working,Account,Medium,Account_7,my login is not working
 827,Where is your company located?!,General,Low,General_3,where is your company located
 717,My delivery is delayed!,Delivery,Medium,Delivery_1,my delivery is delayed
-352,I cannot add my credit card please help ,Payment,Medium,Payment_4,i cannot add my credit card please help
+352,I cannot add my credit card please help ,Payment,Low,Payment_4,i cannot add my credit card please help
 937,I want to learn about your services!,General,Low,General_2,i want to learn about your services
-257,"Hello, i cannot add my credit card",Payment,High,Payment_4,hello i cannot add my credit card
+257,"Hello, i cannot add my credit card",Payment,Low,Payment_4,hello i cannot add my credit card
 636,My package arrived damaged!,Delivery,Medium,Delivery_7,my package arrived damaged
-645,my delivery is delayed,Delivery,Low,Delivery_1,my delivery is delayed
-555,"Hello, the website is loading slowly",Technical,Medium,Technical_1,hello the website is loading slowly
+645,my delivery is delayed,Delivery,Medium,Delivery_1,my delivery is delayed
+555,"Hello, the website is loading slowly",Technical,Low,Technical_1,hello the website is loading slowly
 960,how can i contact support?,General,Low,General_1,how can i contact support
-169,"Hello, i cannot reset my password",Account,High,Account_3,hello i cannot reset my password
+169,"Hello, i cannot reset my password",Account,Low,Account_3,hello i cannot reset my password
 918,"Hello, where is your company located?",General,Low,General_3,hello where is your company located
 529,I receive an unexpected error please help ,Technical,Medium,Technical_6,i receive an unexpected error please help
 824,How do I create an account?!,General,Low,General_4,how do i create an account
 986,Where can I find your documentation?!,General,Low,General_7,where can i find your documentation
 817,"Hello, how can i contact support?",General,Low,General_1,hello how can i contact support
 87,my login is not working,Account,Medium,Account_7,my login is not working
-433,The application shows a blank screen!,Technical,High,Technical_3,the application shows a blank screen
-185,I need to update my profile please help ,Account,Medium,Account_4,i need to update my profile please help
+433,The application shows a blank screen!,Technical,Low,Technical_3,the application shows a blank screen
+185,I need to update my profile please help ,Account,Low,Account_4,i need to update my profile please help
 979,"Hello, where can i find your documentation?",General,Low,General_7,hello where can i find your documentation
-535,i found a bug in the application,Technical,High,Technical_2,i found a bug in the application
-295,"Hello, i have a billing problem",Payment,High,Payment_7,hello i have a billing problem
+535,i found a bug in the application,Technical,Low,Technical_2,i found a bug in the application
+295,"Hello, i have a billing problem",Payment,Low,Payment_7,hello i have a billing problem
 893,I have a general question please help ,General,Low,General_6,i have a general question please help
 426,"Hello, i receive an unexpected error",Technical,Medium,Technical_6,hello i receive an unexpected error
-714,i received the wrong product,Delivery,Medium,Delivery_2,i received the wrong product
-261,i was charged twice,Payment,High,Payment_1,i was charged twice
+714,i received the wrong product,Delivery,Low,Delivery_2,i received the wrong product
+261,i was charged twice,Payment,Low,Payment_1,i was charged twice
 238,My payment was declined,Payment,Medium,Payment_0,my payment was declined
-560,"Hello, i found a bug in the application",Technical,Medium,Technical_2,hello i found a bug in the application
-584,"Hello, i found a bug in the application",Technical,High,Technical_2,hello i found a bug in the application
-446,The website is loading slowly please help ,Technical,Medium,Technical_1,the website is loading slowly please help
+560,"Hello, i found a bug in the application",Technical,Low,Technical_2,hello i found a bug in the application
+584,"Hello, i found a bug in the application",Technical,Low,Technical_2,hello i found a bug in the application
+446,The website is loading slowly please help ,Technical,Low,Technical_1,the website is loading slowly please help
 868,i want to learn about your services,General,Low,General_2,i want to learn about your services
 801,What are your working hours?!,General,Low,General_0,what are your working hours
-600,"Hello, the application stopped working",Technical,Medium,Technical_7,hello the application stopped working
+600,"Hello, the application stopped working",Technical,Low,Technical_7,hello the application stopped working
 850,I have a general question please help ,General,Low,General_6,i have a general question please help
-266,i was charged twice,Payment,High,Payment_1,i was charged twice
+266,i was charged twice,Payment,Low,Payment_1,i was charged twice
 996,Can you explain your pricing?,General,Low,General_5,can you explain your pricing
-530,The application keeps crashing please help ,Technical,High,Technical_0,the application keeps crashing please help
-56,I forgot my password,Account,High,Account_1,i forgot my password
-121,i need to update my profile,Account,High,Account_4,i need to update my profile
+530,The application keeps crashing please help ,Technical,Low,Technical_0,the application keeps crashing please help
+56,I forgot my password,Account,Low,Account_1,i forgot my password
+121,i need to update my profile,Account,Low,Account_4,i need to update my profile
 216,My payment was declined please help ,Payment,Medium,Payment_0,my payment was declined please help
-26,i cannot reset my password,Account,Medium,Account_3,i cannot reset my password
-73,My account has been locked!,Account,High,Account_2,my account has been locked
+26,i cannot reset my password,Account,Low,Account_3,i cannot reset my password
+73,My account has been locked!,Account,Low,Account_2,my account has been locked
 45,I need to update my profile please help ,Account,Low,Account_4,i need to update my profile please help
-248,I cannot add my credit card!,Payment,Medium,Payment_4,i cannot add my credit card
-722,I want to track my order,Delivery,High,Delivery_4,i want to track my order
-282,I cannot add my credit card,Payment,High,Payment_4,i cannot add my credit card
+248,I cannot add my credit card!,Payment,Low,Payment_4,i cannot add my credit card
+722,I want to track my order,Delivery,Low,Delivery_4,i want to track my order
+282,I cannot add my credit card,Payment,Low,Payment_4,i cannot add my credit card
 894,How can I contact support?!,General,Low,General_1,how can i contact support
 915,I have a general question,General,Low,General_6,i have a general question
 811,How do I create an account?,General,Low,General_4,how do i create an account
-245,i was charged twice,Payment,Medium,Payment_1,i was charged twice
+245,i was charged twice,Payment,Low,Payment_1,i was charged twice
 823,What are your working hours?,General,Low,General_0,what are your working hours
-322,I have a billing problem please help ,Payment,Medium,Payment_7,i have a billing problem please help
-644,My package has not arrived,Delivery,High,Delivery_3,my package has not arrived
-159,"Hello, i need to update my profile",Account,High,Account_4,hello i need to update my profile
+322,I have a billing problem please help ,Payment,Low,Payment_7,i have a billing problem please help
+644,My package has not arrived,Delivery,Low,Delivery_3,my package has not arrived
+159,"Hello, i need to update my profile",Account,Low,Account_4,hello i need to update my profile
 978,"Hello, where can i find your documentation?",General,Low,General_7,hello where can i find your documentation
-430,The application keeps crashing,Technical,Medium,Technical_0,the application keeps crashing
+430,The application keeps crashing,Technical,Low,Technical_0,the application keeps crashing
 942,"Hello, i have a general question",General,Low,General_6,hello i have a general question
-463,The application stopped working,Technical,Medium,Technical_7,the application stopped working
+463,The application stopped working,Technical,Low,Technical_7,the application stopped working
 310,My payment was declined please help ,Payment,Medium,Payment_0,my payment was declined please help
-698,My order is missing please help ,Delivery,High,Delivery_5,my order is missing please help
-61,i cannot verify my email,Account,High,Account_6,i cannot verify my email
+698,My order is missing please help ,Delivery,Medium,Delivery_5,my order is missing please help
+61,i cannot verify my email,Account,Low,Account_6,i cannot verify my email
 885,I want to learn about your services please help ,General,Low,General_2,i want to learn about your services please help
-596,"Hello, the application keeps crashing",Technical,Medium,Technical_0,hello the application keeps crashing
+596,"Hello, the application keeps crashing",Technical,Low,Technical_0,hello the application keeps crashing
 768,Where is my package?,Delivery,Low,Delivery_0,where is my package
 650,I received the wrong product!,Delivery,Low,Delivery_2,i received the wrong product
-651,"Hello, my order is missing",Delivery,High,Delivery_5,hello my order is missing
+651,"Hello, my order is missing",Delivery,Medium,Delivery_5,hello my order is missing
 866,Where is your company located?!,General,Low,General_3,where is your company located
 669,my package has not arrived,Delivery,Low,Delivery_3,my package has not arrived
-299,"Hello, i cannot add my credit card",Payment,Medium,Payment_4,hello i cannot add my credit card
-690,My order is missing please help ,Delivery,High,Delivery_5,my order is missing please help
-315,"Hello, my transaction is pending",Payment,High,Payment_3,hello my transaction is pending
-311,i have a billing problem,Payment,Medium,Payment_7,i have a billing problem
-362,My subscription payment failed please help ,Payment,High,Payment_6,my subscription payment failed please help
-480,I cannot upload my file please help ,Technical,High,Technical_4,i cannot upload my file please help
-111,I need to update my profile!,Account,High,Account_4,i need to update my profile
+299,"Hello, i cannot add my credit card",Payment,Low,Payment_4,hello i cannot add my credit card
+690,My order is missing please help ,Delivery,Medium,Delivery_5,my order is missing please help
+315,"Hello, my transaction is pending",Payment,Low,Payment_3,hello my transaction is pending
+311,i have a billing problem,Payment,Low,Payment_7,i have a billing problem
+362,My subscription payment failed please help ,Payment,Medium,Payment_6,my subscription payment failed please help
+480,I cannot upload my file please help ,Technical,Low,Technical_4,i cannot upload my file please help
+111,I need to update my profile!,Account,Low,Account_4,i need to update my profile
 990,Can you explain your pricing?!,General,Low,General_5,can you explain your pricing
-487,The application keeps crashing please help ,Technical,Medium,Technical_0,the application keeps crashing please help
-364,The invoice amount is incorrect!,Payment,High,Payment_5,the invoice amount is incorrect
-255,"Hello, i have a billing problem",Payment,Medium,Payment_7,hello i have a billing problem
-260,i need a refund,Payment,Medium,Payment_2,i need a refund
+487,The application keeps crashing please help ,Technical,Low,Technical_0,the application keeps crashing please help
+364,The invoice amount is incorrect!,Payment,Low,Payment_5,the invoice amount is incorrect
+255,"Hello, i have a billing problem",Payment,Low,Payment_7,hello i have a billing problem
+260,i need a refund,Payment,Low,Payment_2,i need a refund
 803,How can I contact support?,General,Low,General_1,how can i contact support
-678,where is my package?,Delivery,Medium,Delivery_0,where is my package
-495,The application stopped working,Technical,Medium,Technical_7,the application stopped working
-671,My package arrived damaged,Delivery,High,Delivery_7,my package arrived damaged
-378,My transaction is pending,Payment,Medium,Payment_3,my transaction is pending
-527,The website is loading slowly!,Technical,High,Technical_1,the website is loading slowly
+678,where is my package?,Delivery,Low,Delivery_0,where is my package
+495,The application stopped working,Technical,Low,Technical_7,the application stopped working
+671,My package arrived damaged,Delivery,Medium,Delivery_7,my package arrived damaged
+378,My transaction is pending,Payment,Low,Payment_3,my transaction is pending
+527,The website is loading slowly!,Technical,Low,Technical_1,the website is loading slowly
 846,how do i create an account?,General,Low,General_4,how do i create an account
 138,My login is not working please help ,Account,Medium,Account_7,my login is not working please help
-356,I cannot add my credit card please help ,Payment,High,Payment_4,i cannot add my credit card please help
-366,My subscription payment failed,Payment,High,Payment_6,my subscription payment failed
+356,I cannot add my credit card please help ,Payment,Low,Payment_4,i cannot add my credit card please help
+366,My subscription payment failed,Payment,Medium,Payment_6,my subscription payment failed
 943,What are your working hours?!,General,Low,General_0,what are your working hours
 750,I received the wrong product!,Delivery,Low,Delivery_2,i received the wrong product
 949,How can I contact support?!,General,Low,General_1,how can i contact support
 830,I want to learn about your services!,General,Low,General_2,i want to learn about your services
-657,My package has not arrived please help ,Delivery,Medium,Delivery_3,my package has not arrived please help
-200,"Hello, i cannot log into my account",Account,High,Account_0,hello i cannot log into my account
-214,I need a refund!,Payment,High,Payment_2,i need a refund
-409,The application stopped working,Technical,High,Technical_7,the application stopped working
-333,i need a refund,Payment,High,Payment_2,i need a refund
-209,I was charged twice,Payment,High,Payment_1,i was charged twice
-614,Where is my package?,Delivery,Medium,Delivery_0,where is my package
+657,My package has not arrived please help ,Delivery,Low,Delivery_3,my package has not arrived please help
+200,"Hello, i cannot log into my account",Account,Low,Account_0,hello i cannot log into my account
+214,I need a refund!,Payment,Low,Payment_2,i need a refund
+409,The application stopped working,Technical,Low,Technical_7,the application stopped working
+333,i need a refund,Payment,Low,Payment_2,i need a refund
+209,I was charged twice,Payment,Low,Payment_1,i was charged twice
+614,Where is my package?,Delivery,Low,Delivery_0,where is my package
 79,I cannot verify my email please help ,Account,Low,Account_6,i cannot verify my email please help
 30,I cannot verify my email please help ,Account,Low,Account_6,i cannot verify my email please help
-536,The application stopped working,Technical,Medium,Technical_7,the application stopped working
-696,Where is my package? please help ,Delivery,Medium,Delivery_0,where is my package please help
-558,the website is loading slowly,Technical,Medium,Technical_1,the website is loading slowly
+536,The application stopped working,Technical,Low,Technical_7,the application stopped working
+696,Where is my package? please help ,Delivery,Low,Delivery_0,where is my package please help
+558,the website is loading slowly,Technical,Low,Technical_1,the website is loading slowly
 837,Where is your company located?,General,Low,General_3,where is your company located
-597,"Hello, i cannot upload my file",Technical,High,Technical_4,hello i cannot upload my file
+597,"Hello, i cannot upload my file",Technical,Low,Technical_4,hello i cannot upload my file
 166,Someone accessed my account,Account,Low,Account_5,someone accessed my account
 919,"Hello, can you explain your pricing?",General,Low,General_5,hello can you explain your pricing
-496,the system is not responding,Technical,Medium,Technical_5,the system is not responding
+496,the system is not responding,Technical,Low,Technical_5,the system is not responding
 825,what are your working hours?,General,Low,General_0,what are your working hours
-66,I cannot log into my account!,Account,High,Account_0,i cannot log into my account
-142,Someone accessed my account!,Account,Medium,Account_5,someone accessed my account
+66,I cannot log into my account!,Account,Low,Account_0,i cannot log into my account
+142,Someone accessed my account!,Account,Low,Account_5,someone accessed my account
 926,Can you explain your pricing? please help ,General,Low,General_5,can you explain your pricing please help
 828,"Hello, i want to learn about your services",General,Low,General_2,hello i want to learn about your services
-656,I want to track my order!,Delivery,Medium,Delivery_4,i want to track my order
-332,i need a refund,Payment,Medium,Payment_2,i need a refund
-665,my package arrived damaged,Delivery,Low,Delivery_7,my package arrived damaged
-250,My transaction is pending please help ,Payment,High,Payment_3,my transaction is pending please help
+656,I want to track my order!,Delivery,Low,Delivery_4,i want to track my order
+332,i need a refund,Payment,Low,Payment_2,i need a refund
+665,my package arrived damaged,Delivery,Medium,Delivery_7,my package arrived damaged
+250,My transaction is pending please help ,Payment,Low,Payment_3,my transaction is pending please help
 908,I have a general question!,General,Low,General_6,i have a general question
-709,my package has not arrived,Delivery,High,Delivery_3,my package has not arrived
-306,i have a billing problem,Payment,Medium,Payment_7,i have a billing problem
-735,The delivery address is incorrect!,Delivery,Medium,Delivery_6,the delivery address is incorrect
+709,my package has not arrived,Delivery,Low,Delivery_3,my package has not arrived
+306,i have a billing problem,Payment,Low,Payment_7,i have a billing problem
+735,The delivery address is incorrect!,Delivery,Low,Delivery_6,the delivery address is incorrect
 976,i want to learn about your services,General,Low,General_2,i want to learn about your services
-50,i cannot reset my password,Account,Medium,Account_3,i cannot reset my password
+50,i cannot reset my password,Account,Low,Account_3,i cannot reset my password
 897,"Hello, what are your working hours?",General,Low,General_0,hello what are your working hours
-3,My account has been locked,Account,High,Account_2,my account has been locked
-545,"Hello, i found a bug in the application",Technical,Medium,Technical_2,hello i found a bug in the application
-351,the invoice amount is incorrect,Payment,High,Payment_5,the invoice amount is incorrect
+3,My account has been locked,Account,Low,Account_2,my account has been locked
+545,"Hello, i found a bug in the application",Technical,Low,Technical_2,hello i found a bug in the application
+351,the invoice amount is incorrect,Payment,Low,Payment_5,the invoice amount is incorrect
 905,Where can I find your documentation?!,General,Low,General_7,where can i find your documentation
-537,The application shows a blank screen,Technical,High,Technical_3,the application shows a blank screen
-345,My subscription payment failed please help ,Payment,High,Payment_6,my subscription payment failed please help
+537,The application shows a blank screen,Technical,Low,Technical_3,the application shows a blank screen
+345,My subscription payment failed please help ,Payment,Medium,Payment_6,my subscription payment failed please help
 995,Where can I find your documentation? please help ,General,Low,General_7,where can i find your documentation please help
-482,The system is not responding please help ,Technical,Medium,Technical_5,the system is not responding please help
-576,The system is not responding!,Technical,Medium,Technical_5,the system is not responding
+482,The system is not responding please help ,Technical,Low,Technical_5,the system is not responding please help
+576,The system is not responding!,Technical,Low,Technical_5,the system is not responding
 34,my login is not working,Account,Medium,Account_7,my login is not working
-32,someone accessed my account,Account,High,Account_5,someone accessed my account
-232,My transaction is pending please help ,Payment,Medium,Payment_3,my transaction is pending please help
+32,someone accessed my account,Account,Low,Account_5,someone accessed my account
+232,My transaction is pending please help ,Payment,Low,Payment_3,my transaction is pending please help
 964,can you explain your pricing?,General,Low,General_5,can you explain your pricing
 193,My login is not working,Account,Medium,Account_7,my login is not working
-334,I was charged twice!,Payment,Medium,Payment_1,i was charged twice
-4,I forgot my password!,Account,Medium,Account_1,i forgot my password
-205,The invoice amount is incorrect please help ,Payment,Medium,Payment_5,the invoice amount is incorrect please help
-515,"Hello, the application stopped working",Technical,High,Technical_7,hello the application stopped working
-800,I want to track my order!,Delivery,Medium,Delivery_4,i want to track my order
-307,"Hello, i need a refund",Payment,High,Payment_2,hello i need a refund
-110,"Hello, my account has been locked",Account,High,Account_2,hello my account has been locked
-431,"Hello, the application stopped working",Technical,Medium,Technical_7,hello the application stopped working
+334,I was charged twice!,Payment,Low,Payment_1,i was charged twice
+4,I forgot my password!,Account,Low,Account_1,i forgot my password
+205,The invoice amount is incorrect please help ,Payment,Low,Payment_5,the invoice amount is incorrect please help
+515,"Hello, the application stopped working",Technical,Low,Technical_7,hello the application stopped working
+800,I want to track my order!,Delivery,Low,Delivery_4,i want to track my order
+307,"Hello, i need a refund",Payment,Low,Payment_2,hello i need a refund
+110,"Hello, my account has been locked",Account,Low,Account_2,hello my account has been locked
+431,"Hello, the application stopped working",Technical,Low,Technical_7,hello the application stopped working
 78,I cannot log into my account,Account,Low,Account_0,i cannot log into my account
 85,I cannot log into my account,Account,Low,Account_0,i cannot log into my account
-287,I have a billing problem,Payment,Medium,Payment_7,i have a billing problem
-83,I cannot reset my password,Account,Medium,Account_3,i cannot reset my password
+287,I have a billing problem,Payment,Low,Payment_7,i have a billing problem
+83,I cannot reset my password,Account,Low,Account_3,i cannot reset my password
 992,"Hello, where is your company located?",General,Low,General_3,hello where is your company located
-790,my package arrived damaged,Delivery,High,Delivery_7,my package arrived damaged
+790,my package arrived damaged,Delivery,Medium,Delivery_7,my package arrived damaged
 895,Where is your company located?!,General,Low,General_3,where is your company located
-399,I need a refund,Payment,High,Payment_2,i need a refund
+399,I need a refund,Payment,Low,Payment_2,i need a refund
 324,My subscription payment failed please help ,Payment,Medium,Payment_6,my subscription payment failed please help
-520,"Hello, the application shows a blank screen",Technical,Medium,Technical_3,hello the application shows a blank screen
+520,"Hello, the application shows a blank screen",Technical,Low,Technical_3,hello the application shows a blank screen
 917,how do i create an account?,General,Low,General_4,how do i create an account
 923,How can I contact support? please help ,General,Low,General_1,how can i contact support please help
-6,i cannot reset my password,Account,High,Account_3,i cannot reset my password
-732,I received the wrong product!,Delivery,Medium,Delivery_2,i received the wrong product
-466,"Hello, i cannot upload my file",Technical,Medium,Technical_4,hello i cannot upload my file
+6,i cannot reset my password,Account,Low,Account_3,i cannot reset my password
+732,I received the wrong product!,Delivery,Low,Delivery_2,i received the wrong product
+466,"Hello, i cannot upload my file",Technical,Low,Technical_4,hello i cannot upload my file
 98,I forgot my password!,Account,Low,Account_1,i forgot my password
-267,I cannot add my credit card,Payment,High,Payment_4,i cannot add my credit card
-358,"Hello, my transaction is pending",Payment,Medium,Payment_3,hello my transaction is pending
+267,I cannot add my credit card,Payment,Low,Payment_4,i cannot add my credit card
+358,"Hello, my transaction is pending",Payment,Low,Payment_3,hello my transaction is pending
 869,How do I create an account? please help ,General,Low,General_4,how do i create an account please help
 799,The delivery address is incorrect,Delivery,Low,Delivery_6,the delivery address is incorrect
-381,I need a refund!,Payment,High,Payment_2,i need a refund
-632,my package arrived damaged,Delivery,High,Delivery_7,my package arrived damaged
-382,I was charged twice!,Payment,High,Payment_1,i was charged twice
-491,I cannot upload my file,Technical,High,Technical_4,i cannot upload my file
+381,I need a refund!,Payment,Low,Payment_2,i need a refund
+632,my package arrived damaged,Delivery,Medium,Delivery_7,my package arrived damaged
+382,I was charged twice!,Payment,Low,Payment_1,i was charged twice
+491,I cannot upload my file,Technical,Low,Technical_4,i cannot upload my file
 119,I cannot verify my email please help ,Account,Low,Account_6,i cannot verify my email please help
 901,I want to learn about your services please help ,General,Low,General_2,i want to learn about your services please help
-251,I cannot add my credit card,Payment,High,Payment_4,i cannot add my credit card
-524,The application keeps crashing!,Technical,Medium,Technical_0,the application keeps crashing
-10,I cannot verify my email please help ,Account,Medium,Account_6,i cannot verify my email please help
-197,"Hello, i cannot log into my account",Account,Medium,Account_0,hello i cannot log into my account
-604,I received the wrong product please help ,Delivery,High,Delivery_2,i received the wrong product please help
-82,My account has been locked please help ,Account,Medium,Account_2,my account has been locked please help
+251,I cannot add my credit card,Payment,Low,Payment_4,i cannot add my credit card
+524,The application keeps crashing!,Technical,Low,Technical_0,the application keeps crashing
+10,I cannot verify my email please help ,Account,Low,Account_6,i cannot verify my email please help
+197,"Hello, i cannot log into my account",Account,Low,Account_0,hello i cannot log into my account
+604,I received the wrong product please help ,Delivery,Low,Delivery_2,i received the wrong product please help
+82,My account has been locked please help ,Account,Low,Account_2,my account has been locked please help
 784,My package has not arrived please help ,Delivery,Low,Delivery_3,my package has not arrived please help
-588,I cannot upload my file,Technical,Medium,Technical_4,i cannot upload my file
-798,Where is my package?!,Delivery,High,Delivery_0,where is my package
-240,I cannot add my credit card!,Payment,Medium,Payment_4,i cannot add my credit card
-291,"Hello, i cannot add my credit card",Payment,High,Payment_4,hello i cannot add my credit card
-212,I have a billing problem,Payment,High,Payment_7,i have a billing problem
+588,I cannot upload my file,Technical,Low,Technical_4,i cannot upload my file
+798,Where is my package?!,Delivery,Low,Delivery_0,where is my package
+240,I cannot add my credit card!,Payment,Low,Payment_4,i cannot add my credit card
+291,"Hello, i cannot add my credit card",Payment,Low,Payment_4,hello i cannot add my credit card
+212,I have a billing problem,Payment,Low,Payment_7,i have a billing problem
 718,"Hello, where is my package?",Delivery,Low,Delivery_0,hello where is my package
-360,I cannot add my credit card!,Payment,High,Payment_4,i cannot add my credit card
-450,The system is not responding,Technical,Medium,Technical_5,the system is not responding
-228,I was charged twice please help ,Payment,Medium,Payment_1,i was charged twice please help
+360,I cannot add my credit card!,Payment,Low,Payment_4,i cannot add my credit card
+450,The system is not responding,Technical,Low,Technical_5,the system is not responding
+228,I was charged twice please help ,Payment,Low,Payment_1,i was charged twice please help
 951,can you explain your pricing?,General,Low,General_5,can you explain your pricing
 947,Where is your company located? please help ,General,Low,General_3,where is your company located please help
-797,"Hello, my package arrived damaged",Delivery,Low,Delivery_7,hello my package arrived damaged
-502,I found a bug in the application please help ,Technical,High,Technical_2,i found a bug in the application please help
-465,The application keeps crashing please help ,Technical,High,Technical_0,the application keeps crashing please help
-363,"Hello, my transaction is pending",Payment,High,Payment_3,hello my transaction is pending
-469,"Hello, i receive an unexpected error",Technical,High,Technical_6,hello i receive an unexpected error
+797,"Hello, my package arrived damaged",Delivery,Medium,Delivery_7,hello my package arrived damaged
+502,I found a bug in the application please help ,Technical,Low,Technical_2,i found a bug in the application please help
+465,The application keeps crashing please help ,Technical,Low,Technical_0,the application keeps crashing please help
+363,"Hello, my transaction is pending",Payment,Low,Payment_3,hello my transaction is pending
+469,"Hello, i receive an unexpected error",Technical,Medium,Technical_6,hello i receive an unexpected error
 936,i want to learn about your services,General,Low,General_2,i want to learn about your services
-429,the application keeps crashing,Technical,High,Technical_0,the application keeps crashing
-8,i cannot verify my email,Account,Medium,Account_6,i cannot verify my email
+429,the application keeps crashing,Technical,Low,Technical_0,the application keeps crashing
+8,i cannot verify my email,Account,Low,Account_6,i cannot verify my email
 156,I need to update my profile!,Account,Low,Account_4,i need to update my profile
-542,The system is not responding please help ,Technical,High,Technical_5,the system is not responding please help
-441,"Hello, the application keeps crashing",Technical,Medium,Technical_0,hello the application keeps crashing
-483,I found a bug in the application!,Technical,High,Technical_2,i found a bug in the application
-423,I found a bug in the application!,Technical,Medium,Technical_2,i found a bug in the application
-779,My package arrived damaged please help ,Delivery,Low,Delivery_7,my package arrived damaged please help
+542,The system is not responding please help ,Technical,Low,Technical_5,the system is not responding please help
+441,"Hello, the application keeps crashing",Technical,Low,Technical_0,hello the application keeps crashing
+483,I found a bug in the application!,Technical,Low,Technical_2,i found a bug in the application
+423,I found a bug in the application!,Technical,Low,Technical_2,i found a bug in the application
+779,My package arrived damaged please help ,Delivery,Medium,Delivery_7,my package arrived damaged please help
 950,I want to learn about your services please help ,General,Low,General_2,i want to learn about your services please help
-335,"Hello, my transaction is pending",Payment,High,Payment_3,hello my transaction is pending
-577,The application stopped working!,Technical,High,Technical_7,the application stopped working
+335,"Hello, my transaction is pending",Payment,Low,Payment_3,hello my transaction is pending
+577,The application stopped working!,Technical,Low,Technical_7,the application stopped working
 935,Can you explain your pricing?,General,Low,General_5,can you explain your pricing
-568,the application stopped working,Technical,High,Technical_7,the application stopped working
-595,The application shows a blank screen!,Technical,Medium,Technical_3,the application shows a blank screen
-531,the system is not responding,Technical,High,Technical_5,the system is not responding
-582,"Hello, the application stopped working",Technical,Medium,Technical_7,hello the application stopped working
-708,My package arrived damaged!,Delivery,High,Delivery_7,my package arrived damaged
-449,the system is not responding,Technical,Medium,Technical_5,the system is not responding
-454,The application shows a blank screen please help ,Technical,High,Technical_3,the application shows a blank screen please help
-229,"Hello, my transaction is pending",Payment,Medium,Payment_3,hello my transaction is pending
-353,i need a refund,Payment,High,Payment_2,i need a refund
-729,"Hello, the delivery address is incorrect",Delivery,Medium,Delivery_6,hello the delivery address is incorrect
-213,I have a billing problem please help ,Payment,Medium,Payment_7,i have a billing problem please help
+568,the application stopped working,Technical,Low,Technical_7,the application stopped working
+595,The application shows a blank screen!,Technical,Low,Technical_3,the application shows a blank screen
+531,the system is not responding,Technical,Low,Technical_5,the system is not responding
+582,"Hello, the application stopped working",Technical,Low,Technical_7,hello the application stopped working
+708,My package arrived damaged!,Delivery,Medium,Delivery_7,my package arrived damaged
+449,the system is not responding,Technical,Low,Technical_5,the system is not responding
+454,The application shows a blank screen please help ,Technical,Low,Technical_3,the application shows a blank screen please help
+229,"Hello, my transaction is pending",Payment,Low,Payment_3,hello my transaction is pending
+353,i need a refund,Payment,Low,Payment_2,i need a refund
+729,"Hello, the delivery address is incorrect",Delivery,Low,Delivery_6,hello the delivery address is incorrect
+213,I have a billing problem please help ,Payment,Low,Payment_7,i have a billing problem please help
 80,i cannot reset my password,Account,Low,Account_3,i cannot reset my password
 149,I cannot reset my password please help ,Account,Low,Account_3,i cannot reset my password please help
-303,"Hello, i was charged twice",Payment,High,Payment_1,hello i was charged twice
+303,"Hello, i was charged twice",Payment,Low,Payment_1,hello i was charged twice
 629,The delivery address is incorrect!,Delivery,Low,Delivery_6,the delivery address is incorrect
-778,My package arrived damaged,Delivery,High,Delivery_7,my package arrived damaged
-507,"Hello, the application shows a blank screen",Technical,Medium,Technical_3,hello the application shows a blank screen
-343,"Hello, my transaction is pending",Payment,Medium,Payment_3,hello my transaction is pending
+778,My package arrived damaged,Delivery,Medium,Delivery_7,my package arrived damaged
+507,"Hello, the application shows a blank screen",Technical,Low,Technical_3,hello the application shows a blank screen
+343,"Hello, my transaction is pending",Payment,Low,Payment_3,hello my transaction is pending
 486,I receive an unexpected error!,Technical,Medium,Technical_6,i receive an unexpected error
-712,My delivery is delayed,Delivery,High,Delivery_1,my delivery is delayed
-134,My account has been locked please help ,Account,Medium,Account_2,my account has been locked please help
-704,I want to track my order please help ,Delivery,High,Delivery_4,i want to track my order please help
-312,I have a billing problem please help ,Payment,Medium,Payment_7,i have a billing problem please help
+712,My delivery is delayed,Delivery,Medium,Delivery_1,my delivery is delayed
+134,My account has been locked please help ,Account,Low,Account_2,my account has been locked please help
+704,I want to track my order please help ,Delivery,Low,Delivery_4,i want to track my order please help
+312,I have a billing problem please help ,Payment,Low,Payment_7,i have a billing problem please help
 723,My package has not arrived!,Delivery,Low,Delivery_3,my package has not arrived
 630,Where is my package?,Delivery,Low,Delivery_0,where is my package
-1,I forgot my password,Account,High,Account_1,i forgot my password
+1,I forgot my password,Account,Low,Account_1,i forgot my password
 317,my subscription payment failed,Payment,Medium,Payment_6,my subscription payment failed
-707,"Hello, my order is missing",Delivery,High,Delivery_5,hello my order is missing
-548,I receive an unexpected error!,Technical,High,Technical_6,i receive an unexpected error
+707,"Hello, my order is missing",Delivery,Medium,Delivery_5,hello my order is missing
+548,I receive an unexpected error!,Technical,Medium,Technical_6,i receive an unexpected error
 873,"Hello, how do i create an account?",General,Low,General_4,hello how do i create an account
-533,The system is not responding!,Technical,Medium,Technical_5,the system is not responding
-478,The application keeps crashing please help ,Technical,High,Technical_0,the application keeps crashing please help
+533,The system is not responding!,Technical,Low,Technical_5,the system is not responding
+478,The application keeps crashing please help ,Technical,Low,Technical_0,the application keeps crashing please help
 405,I receive an unexpected error please help ,Technical,Medium,Technical_6,i receive an unexpected error please help
-173,I cannot log into my account,Account,Medium,Account_0,i cannot log into my account
-126,Someone accessed my account!,Account,High,Account_5,someone accessed my account
-395,I have a billing problem,Payment,High,Payment_7,i have a billing problem
-421,I cannot upload my file please help ,Technical,Medium,Technical_4,i cannot upload my file please help
-553,The application stopped working,Technical,Medium,Technical_7,the application stopped working
+173,I cannot log into my account,Account,Low,Account_0,i cannot log into my account
+126,Someone accessed my account!,Account,Low,Account_5,someone accessed my account
+395,I have a billing problem,Payment,Low,Payment_7,i have a billing problem
+421,I cannot upload my file please help ,Technical,Low,Technical_4,i cannot upload my file please help
+553,The application stopped working,Technical,Low,Technical_7,the application stopped working
 904,I have a general question,General,Low,General_6,i have a general question
-91,my login is not working,Account,Low,Account_7,my login is not working
+91,my login is not working,Account,Medium,Account_7,my login is not working
 940,"Hello, where is your company located?",General,Low,General_3,hello where is your company located
-182,I need to update my profile!,Account,Medium,Account_4,i need to update my profile
-275,my transaction is pending,Payment,Medium,Payment_3,my transaction is pending
+182,I need to update my profile!,Account,Low,Account_4,i need to update my profile
+275,my transaction is pending,Payment,Low,Payment_3,my transaction is pending
 896,I want to learn about your services!,General,Low,General_2,i want to learn about your services
 70,I cannot log into my account please help ,Account,Low,Account_0,i cannot log into my account please help
-292,I have a billing problem,Payment,Medium,Payment_7,i have a billing problem
+292,I have a billing problem,Payment,Low,Payment_7,i have a billing problem
 132,my account has been locked,Account,Low,Account_2,my account has been locked
-301,I need a refund please help ,Payment,High,Payment_2,i need a refund please help
-425,The website is loading slowly!,Technical,High,Technical_1,the website is loading slowly
-327,"Hello, i was charged twice",Payment,High,Payment_1,hello i was charged twice
+301,I need a refund please help ,Payment,Low,Payment_2,i need a refund please help
+425,The website is loading slowly!,Technical,Low,Technical_1,the website is loading slowly
+327,"Hello, i was charged twice",Payment,Low,Payment_1,hello i was charged twice
 145,I need to update my profile,Account,Low,Account_4,i need to update my profile
-424,the website is loading slowly,Technical,High,Technical_1,the website is loading slowly
-581,I found a bug in the application please help ,Technical,High,Technical_2,i found a bug in the application please help
+424,the website is loading slowly,Technical,Low,Technical_1,the website is loading slowly
+581,I found a bug in the application please help ,Technical,Low,Technical_2,i found a bug in the application please help
 136,"Hello, i forgot my password",Account,Low,Account_1,hello i forgot my password
-451,the website is loading slowly,Technical,Medium,Technical_1,the website is loading slowly
-165,I forgot my password please help ,Account,High,Account_1,i forgot my password please help
-29,I cannot reset my password,Account,Medium,Account_3,i cannot reset my password
+451,the website is loading slowly,Technical,Low,Technical_1,the website is loading slowly
+165,I forgot my password please help ,Account,Low,Account_1,i forgot my password please help
+29,I cannot reset my password,Account,Low,Account_3,i cannot reset my password
 774,My order is missing please help ,Delivery,Medium,Delivery_5,my order is missing please help
-194,"Hello, i need to update my profile",Account,Medium,Account_4,hello i need to update my profile
+194,"Hello, i need to update my profile",Account,Low,Account_4,hello i need to update my profile
 389,my payment was declined,Payment,Medium,Payment_0,my payment was declined
 853,"Hello, how do i create an account?",General,Low,General_4,hello how do i create an account
-170,"Hello, i forgot my password",Account,Medium,Account_1,hello i forgot my password
+170,"Hello, i forgot my password",Account,Low,Account_1,hello i forgot my password
 706,my package arrived damaged,Delivery,Medium,Delivery_7,my package arrived damaged
-141,I need to update my profile,Account,Medium,Account_4,i need to update my profile
-174,i cannot reset my password,Account,High,Account_3,i cannot reset my password
+141,I need to update my profile,Account,Low,Account_4,i need to update my profile
+174,i cannot reset my password,Account,Low,Account_3,i cannot reset my password
 7,I cannot log into my account!,Account,Low,Account_0,i cannot log into my account
-746,where is my package?,Delivery,High,Delivery_0,where is my package
-479,The system is not responding,Technical,Medium,Technical_5,the system is not responding
+746,where is my package?,Delivery,Low,Delivery_0,where is my package
+479,The system is not responding,Technical,Low,Technical_5,the system is not responding
 74,my login is not working,Account,Medium,Account_7,my login is not working
 911,Where is your company located? please help ,General,Low,General_3,where is your company located please help
 814,I have a general question!,General,Low,General_6,i have a general question
-239,"Hello, my transaction is pending",Payment,High,Payment_3,hello my transaction is pending
-146,I cannot verify my email please help ,Account,High,Account_6,i cannot verify my email please help
-793,the delivery address is incorrect,Delivery,High,Delivery_6,the delivery address is incorrect
-235,i was charged twice,Payment,Medium,Payment_1,i was charged twice
-221,The invoice amount is incorrect,Payment,Medium,Payment_5,the invoice amount is incorrect
+239,"Hello, my transaction is pending",Payment,Low,Payment_3,hello my transaction is pending
+146,I cannot verify my email please help ,Account,Low,Account_6,i cannot verify my email please help
+793,the delivery address is incorrect,Delivery,Low,Delivery_6,the delivery address is incorrect
+235,i was charged twice,Payment,Low,Payment_1,i was charged twice
+221,The invoice amount is incorrect,Payment,Low,Payment_5,the invoice amount is incorrect
 924,I have a general question,General,Low,General_6,i have a general question
-501,i receive an unexpected error,Technical,High,Technical_6,i receive an unexpected error
+501,i receive an unexpected error,Technical,Medium,Technical_6,i receive an unexpected error
 133,"Hello, my account has been locked",Account,Low,Account_2,hello my account has been locked
 991,"Hello, what are your working hours?",General,Low,General_0,hello what are your working hours
-775,My package arrived damaged!,Delivery,High,Delivery_7,my package arrived damaged
+775,My package arrived damaged!,Delivery,Medium,Delivery_7,my package arrived damaged
 186,i forgot my password,Account,Low,Account_1,i forgot my password
-42,"Hello, i cannot verify my email",Account,High,Account_6,hello i cannot verify my email
-697,"Hello, my package has not arrived",Delivery,Medium,Delivery_3,hello my package has not arrived
-109,I cannot reset my password please help ,Account,Medium,Account_3,i cannot reset my password please help
-589,The application shows a blank screen!,Technical,Medium,Technical_3,the application shows a blank screen
-57,My login is not working,Account,High,Account_7,my login is not working
-406,"Hello, i receive an unexpected error",Technical,High,Technical_6,hello i receive an unexpected error
-443,The application shows a blank screen!,Technical,Medium,Technical_3,the application shows a blank screen
-758,my package arrived damaged,Delivery,Low,Delivery_7,my package arrived damaged
+42,"Hello, i cannot verify my email",Account,Low,Account_6,hello i cannot verify my email
+697,"Hello, my package has not arrived",Delivery,Low,Delivery_3,hello my package has not arrived
+109,I cannot reset my password please help ,Account,Low,Account_3,i cannot reset my password please help
+589,The application shows a blank screen!,Technical,Low,Technical_3,the application shows a blank screen
+57,My login is not working,Account,Medium,Account_7,my login is not working
+406,"Hello, i receive an unexpected error",Technical,Medium,Technical_6,hello i receive an unexpected error
+443,The application shows a blank screen!,Technical,Low,Technical_3,the application shows a blank screen
+758,my package arrived damaged,Delivery,Medium,Delivery_7,my package arrived damaged
 998,where is your company located?,General,Low,General_3,where is your company located
-25,My account has been locked!,Account,High,Account_2,my account has been locked
-468,I cannot upload my file,Technical,High,Technical_4,i cannot upload my file
-540,I cannot upload my file,Technical,High,Technical_4,i cannot upload my file
-532,the system is not responding,Technical,High,Technical_5,the system is not responding
-619,Where is my package?,Delivery,Medium,Delivery_0,where is my package
-695,My package arrived damaged please help ,Delivery,Low,Delivery_7,my package arrived damaged please help
+25,My account has been locked!,Account,Low,Account_2,my account has been locked
+468,I cannot upload my file,Technical,Low,Technical_4,i cannot upload my file
+540,I cannot upload my file,Technical,Low,Technical_4,i cannot upload my file
+532,the system is not responding,Technical,Low,Technical_5,the system is not responding
+619,Where is my package?,Delivery,Low,Delivery_0,where is my package
+695,My package arrived damaged please help ,Delivery,Medium,Delivery_7,my package arrived damaged please help
 927,"Hello, can you explain your pricing?",General,Low,General_5,hello can you explain your pricing
-339,"Hello, i was charged twice",Payment,Medium,Payment_1,hello i was charged twice
-52,I cannot log into my account!,Account,Medium,Account_0,i cannot log into my account
-508,"Hello, the application keeps crashing",Technical,High,Technical_0,hello the application keeps crashing
-517,the application shows a blank screen,Technical,Medium,Technical_3,the application shows a blank screen
+339,"Hello, i was charged twice",Payment,Low,Payment_1,hello i was charged twice
+52,I cannot log into my account!,Account,Low,Account_0,i cannot log into my account
+508,"Hello, the application keeps crashing",Technical,Low,Technical_0,hello the application keeps crashing
+517,the application shows a blank screen,Technical,Low,Technical_3,the application shows a blank screen
 921,I want to learn about your services please help ,General,Low,General_2,i want to learn about your services please help
-782,I received the wrong product,Delivery,Medium,Delivery_2,i received the wrong product
-265,I cannot add my credit card!,Payment,High,Payment_4,i cannot add my credit card
+782,I received the wrong product,Delivery,Low,Delivery_2,i received the wrong product
+265,I cannot add my credit card!,Payment,Low,Payment_4,i cannot add my credit card
 818,I have a general question please help ,General,Low,General_6,i have a general question please help
-711,My order is missing,Delivery,High,Delivery_5,my order is missing
+711,My order is missing,Delivery,Medium,Delivery_5,my order is missing
 683,My delivery is delayed please help ,Delivery,Medium,Delivery_1,my delivery is delayed please help
 833,"Hello, can you explain your pricing?",General,Low,General_5,hello can you explain your pricing
-519,I cannot upload my file,Technical,High,Technical_4,i cannot upload my file
-448,"Hello, the website is loading slowly",Technical,High,Technical_1,hello the website is loading slowly
+519,I cannot upload my file,Technical,Low,Technical_4,i cannot upload my file
+448,"Hello, the website is loading slowly",Technical,Low,Technical_1,hello the website is loading slowly
 19,I cannot reset my password please help ,Account,Low,Account_3,i cannot reset my password please help
-716,My package has not arrived!,Delivery,Medium,Delivery_3,my package has not arrived
-484,I cannot upload my file!,Technical,Medium,Technical_4,i cannot upload my file
-569,I found a bug in the application,Technical,Medium,Technical_2,i found a bug in the application
-434,"Hello, the system is not responding",Technical,High,Technical_5,hello the system is not responding
-368,I have a billing problem,Payment,High,Payment_7,i have a billing problem
-84,I forgot my password,Account,High,Account_1,i forgot my password
-62,I cannot reset my password please help ,Account,Medium,Account_3,i cannot reset my password please help
-639,I want to track my order,Delivery,High,Delivery_4,i want to track my order
-273,i was charged twice,Payment,Medium,Payment_1,i was charged twice
-286,i cannot add my credit card,Payment,Medium,Payment_4,i cannot add my credit card
-361,I have a billing problem please help ,Payment,Medium,Payment_7,i have a billing problem please help
-355,I need a refund please help ,Payment,Medium,Payment_2,i need a refund please help
-457,i found a bug in the application,Technical,High,Technical_2,i found a bug in the application
-279,"Hello, i cannot add my credit card",Payment,Medium,Payment_4,hello i cannot add my credit card
-13,I forgot my password please help ,Account,Medium,Account_1,i forgot my password please help
-183,I cannot reset my password please help ,Account,Medium,Account_3,i cannot reset my password please help
-369,My transaction is pending!,Payment,High,Payment_3,my transaction is pending
+716,My package has not arrived!,Delivery,Low,Delivery_3,my package has not arrived
+484,I cannot upload my file!,Technical,Low,Technical_4,i cannot upload my file
+569,I found a bug in the application,Technical,Low,Technical_2,i found a bug in the application
+434,"Hello, the system is not responding",Technical,Low,Technical_5,hello the system is not responding
+368,I have a billing problem,Payment,Low,Payment_7,i have a billing problem
+84,I forgot my password,Account,Low,Account_1,i forgot my password
+62,I cannot reset my password please help ,Account,Low,Account_3,i cannot reset my password please help
+639,I want to track my order,Delivery,Low,Delivery_4,i want to track my order
+273,i was charged twice,Payment,Low,Payment_1,i was charged twice
+286,i cannot add my credit card,Payment,Low,Payment_4,i cannot add my credit card
+361,I have a billing problem please help ,Payment,Low,Payment_7,i have a billing problem please help
+355,I need a refund please help ,Payment,Low,Payment_2,i need a refund please help
+457,i found a bug in the application,Technical,Low,Technical_2,i found a bug in the application
+279,"Hello, i cannot add my credit card",Payment,Low,Payment_4,hello i cannot add my credit card
+13,I forgot my password please help ,Account,Low,Account_1,i forgot my password please help
+183,I cannot reset my password please help ,Account,Low,Account_3,i cannot reset my password please help
+369,My transaction is pending!,Payment,Low,Payment_3,my transaction is pending
 882,I have a general question please help ,General,Low,General_6,i have a general question please help
-616,My order is missing,Delivery,Low,Delivery_5,my order is missing
-224,i have a billing problem,Payment,Medium,Payment_7,i have a billing problem
-573,I found a bug in the application please help ,Technical,High,Technical_2,i found a bug in the application please help
+616,My order is missing,Delivery,Medium,Delivery_5,my order is missing
+224,i have a billing problem,Payment,Low,Payment_7,i have a billing problem
+573,I found a bug in the application please help ,Technical,Low,Technical_2,i found a bug in the application please help
 971,how do i create an account?,General,Low,General_4,how do i create an account
-654,My order is missing please help ,Delivery,High,Delivery_5,my order is missing please help
-546,The system is not responding!,Technical,Medium,Technical_5,the system is not responding
-583,I found a bug in the application!,Technical,High,Technical_2,i found a bug in the application
+654,My order is missing please help ,Delivery,Medium,Delivery_5,my order is missing please help
+546,The system is not responding!,Technical,Low,Technical_5,the system is not responding
+583,I found a bug in the application!,Technical,Low,Technical_2,i found a bug in the application
 634,my order is missing,Delivery,Medium,Delivery_5,my order is missing
-177,"Hello, my account has been locked",Account,High,Account_2,hello my account has been locked
-666,I want to track my order!,Delivery,High,Delivery_4,i want to track my order
-674,"Hello, my package arrived damaged",Delivery,High,Delivery_7,hello my package arrived damaged
-586,i cannot upload my file,Technical,High,Technical_4,i cannot upload my file
+177,"Hello, my account has been locked",Account,Low,Account_2,hello my account has been locked
+666,I want to track my order!,Delivery,Low,Delivery_4,i want to track my order
+674,"Hello, my package arrived damaged",Delivery,Medium,Delivery_7,hello my package arrived damaged
+586,i cannot upload my file,Technical,Low,Technical_4,i cannot upload my file
 874,"Hello, how do i create an account?",General,Low,General_4,hello how do i create an account
 394,My payment was declined!,Payment,Medium,Payment_0,my payment was declined
-164,my login is not working,Account,High,Account_7,my login is not working
-249,i was charged twice,Payment,Medium,Payment_1,i was charged twice
-635,I want to track my order!,Delivery,Medium,Delivery_4,i want to track my order
+164,my login is not working,Account,Medium,Account_7,my login is not working
+249,i was charged twice,Payment,Low,Payment_1,i was charged twice
+635,I want to track my order!,Delivery,Low,Delivery_4,i want to track my order
 886,Can you explain your pricing?!,General,Low,General_5,can you explain your pricing
 670,"Hello, my delivery is delayed",Delivery,Medium,Delivery_1,hello my delivery is delayed
-376,I was charged twice please help ,Payment,Medium,Payment_1,i was charged twice please help
-413,"Hello, the website is loading slowly",Technical,Medium,Technical_1,hello the website is loading slowly
+376,I was charged twice please help ,Payment,Low,Payment_1,i was charged twice please help
+413,"Hello, the website is loading slowly",Technical,Low,Technical_1,hello the website is loading slowly
 75,i cannot verify my email,Account,Low,Account_6,i cannot verify my email
-114,I forgot my password,Account,High,Account_1,i forgot my password
-599,The website is loading slowly,Technical,High,Technical_1,the website is loading slowly
+114,I forgot my password,Account,Low,Account_1,i forgot my password
+599,The website is loading slowly,Technical,Low,Technical_1,the website is loading slowly
 962,Where is your company located? please help ,General,Low,General_3,where is your company located please help
-391,I was charged twice,Payment,Medium,Payment_1,i was charged twice
-105,I forgot my password,Account,Medium,Account_1,i forgot my password
-115,My account has been locked please help ,Account,Medium,Account_2,my account has been locked please help
-418,The system is not responding,Technical,Medium,Technical_5,the system is not responding
-526,I found a bug in the application,Technical,Medium,Technical_2,i found a bug in the application
-458,I found a bug in the application please help ,Technical,High,Technical_2,i found a bug in the application please help
-410,The website is loading slowly,Technical,Medium,Technical_1,the website is loading slowly
+391,I was charged twice,Payment,Low,Payment_1,i was charged twice
+105,I forgot my password,Account,Low,Account_1,i forgot my password
+115,My account has been locked please help ,Account,Low,Account_2,my account has been locked please help
+418,The system is not responding,Technical,Low,Technical_5,the system is not responding
+526,I found a bug in the application,Technical,Low,Technical_2,i found a bug in the application
+458,I found a bug in the application please help ,Technical,Low,Technical_2,i found a bug in the application please help
+410,The website is loading slowly,Technical,Low,Technical_1,the website is loading slowly
 93,I cannot log into my account please help ,Account,Low,Account_0,i cannot log into my account please help
 931,"Hello, where can i find your documentation?",General,Low,General_7,hello where can i find your documentation
 90,My login is not working please help ,Account,Medium,Account_7,my login is not working please help
-337,I have a billing problem please help ,Payment,High,Payment_7,i have a billing problem please help
+337,I have a billing problem please help ,Payment,Low,Payment_7,i have a billing problem please help
 989,How can I contact support? please help ,General,Low,General_1,how can i contact support please help
 922,"Hello, what are your working hours?",General,Low,General_0,hello what are your working hours
 934,How can I contact support?,General,Low,General_1,how can i contact support
 606,My package arrived damaged,Delivery,Medium,Delivery_7,my package arrived damaged
-594,The application keeps crashing!,Technical,Medium,Technical_0,the application keeps crashing
+594,The application keeps crashing!,Technical,Low,Technical_0,the application keeps crashing
 612,My package arrived damaged!,Delivery,Medium,Delivery_7,my package arrived damaged
-95,My account has been locked,Account,High,Account_2,my account has been locked
-12,I forgot my password,Account,Medium,Account_1,i forgot my password
-397,"Hello, i was charged twice",Payment,Medium,Payment_1,hello i was charged twice
-534,"Hello, i found a bug in the application",Technical,Medium,Technical_2,hello i found a bug in the application
-44,I cannot log into my account,Account,High,Account_0,i cannot log into my account
+95,My account has been locked,Account,Low,Account_2,my account has been locked
+12,I forgot my password,Account,Low,Account_1,i forgot my password
+397,"Hello, i was charged twice",Payment,Low,Payment_1,hello i was charged twice
+534,"Hello, i found a bug in the application",Technical,Low,Technical_2,hello i found a bug in the application
+44,I cannot log into my account,Account,Low,Account_0,i cannot log into my account
 43,My login is not working!,Account,Medium,Account_7,my login is not working
-330,The invoice amount is incorrect,Payment,Medium,Payment_5,the invoice amount is incorrect
+330,The invoice amount is incorrect,Payment,Low,Payment_5,the invoice amount is incorrect
 168,My account has been locked,Account,Low,Account_2,my account has been locked
-498,The application shows a blank screen please help ,Technical,Medium,Technical_3,the application shows a blank screen please help
+498,The application shows a blank screen please help ,Technical,Low,Technical_3,the application shows a blank screen please help
 877,Where can I find your documentation?!,General,Low,General_7,where can i find your documentation
 598,I receive an unexpected error please help ,Technical,Medium,Technical_6,i receive an unexpected error please help
 757,"Hello, i want to track my order",Delivery,Low,Delivery_4,hello i want to track my order
 101,Someone accessed my account please help ,Account,Low,Account_5,someone accessed my account please help
-427,the system is not responding,Technical,Medium,Technical_5,the system is not responding
-179,I cannot verify my email!,Account,Medium,Account_6,i cannot verify my email
+427,the system is not responding,Technical,Low,Technical_5,the system is not responding
+179,I cannot verify my email!,Account,Low,Account_6,i cannot verify my email
 445,I receive an unexpected error,Technical,Medium,Technical_6,i receive an unexpected error
-417,The application shows a blank screen,Technical,Medium,Technical_3,the application shows a blank screen
+417,The application shows a blank screen,Technical,Low,Technical_3,the application shows a blank screen
 871,I want to learn about your services,General,Low,General_2,i want to learn about your services
 883,Where can I find your documentation? please help ,General,Low,General_7,where can i find your documentation please help
 681,I want to track my order,Delivery,Low,Delivery_4,i want to track my order
-178,"Hello, someone accessed my account",Account,High,Account_5,hello someone accessed my account
-396,"Hello, i have a billing problem",Payment,Medium,Payment_7,hello i have a billing problem
+178,"Hello, someone accessed my account",Account,Low,Account_5,hello someone accessed my account
+396,"Hello, i have a billing problem",Payment,Low,Payment_7,hello i have a billing problem
 912,I want to learn about your services!,General,Low,General_2,i want to learn about your services
-794,My package has not arrived,Delivery,High,Delivery_3,my package has not arrived
+794,My package has not arrived,Delivery,Low,Delivery_3,my package has not arrived
 961,Can you explain your pricing?,General,Low,General_5,can you explain your pricing
-685,my package arrived damaged,Delivery,High,Delivery_7,my package arrived damaged
-384,I need a refund!,Payment,High,Payment_2,i need a refund
+685,my package arrived damaged,Delivery,Medium,Delivery_7,my package arrived damaged
+384,I need a refund!,Payment,Low,Payment_2,i need a refund
 957,How can I contact support? please help ,General,Low,General_1,how can i contact support please help
-752,Where is my package?!,Delivery,High,Delivery_0,where is my package
-258,"Hello, i was charged twice",Payment,Medium,Payment_1,hello i was charged twice
+752,Where is my package?!,Delivery,Low,Delivery_0,where is my package
+258,"Hello, i was charged twice",Payment,Low,Payment_1,hello i was charged twice
 539,I receive an unexpected error!,Technical,Medium,Technical_6,i receive an unexpected error
-336,"Hello, my transaction is pending",Payment,Medium,Payment_3,hello my transaction is pending
-16,I cannot verify my email,Account,High,Account_6,i cannot verify my email
-325,My payment was declined!,Payment,High,Payment_0,my payment was declined
-759,i want to track my order,Delivery,Medium,Delivery_4,i want to track my order
-223,"Hello, i was charged twice",Payment,Medium,Payment_1,hello i was charged twice
-180,"Hello, my account has been locked",Account,Medium,Account_2,hello my account has been locked
+336,"Hello, my transaction is pending",Payment,Low,Payment_3,hello my transaction is pending
+16,I cannot verify my email,Account,Low,Account_6,i cannot verify my email
+325,My payment was declined!,Payment,Medium,Payment_0,my payment was declined
+759,i want to track my order,Delivery,Low,Delivery_4,i want to track my order
+223,"Hello, i was charged twice",Payment,Low,Payment_1,hello i was charged twice
+180,"Hello, my account has been locked",Account,Low,Account_2,hello my account has been locked
 984,how do i create an account?,General,Low,General_4,how do i create an account
-23,someone accessed my account,Account,High,Account_5,someone accessed my account
-357,I have a billing problem,Payment,High,Payment_7,i have a billing problem
+23,someone accessed my account,Account,Low,Account_5,someone accessed my account
+357,I have a billing problem,Payment,Low,Payment_7,i have a billing problem
 667,i want to track my order,Delivery,Low,Delivery_4,i want to track my order
 862,"Hello, can you explain your pricing?",General,Low,General_5,hello can you explain your pricing
-341,I have a billing problem please help ,Payment,High,Payment_7,i have a billing problem please help
-432,"Hello, the application stopped working",Technical,Medium,Technical_7,hello the application stopped working
-552,"Hello, i found a bug in the application",Technical,Medium,Technical_2,hello i found a bug in the application
+341,I have a billing problem please help ,Payment,Low,Payment_7,i have a billing problem please help
+432,"Hello, the application stopped working",Technical,Low,Technical_7,hello the application stopped working
+552,"Hello, i found a bug in the application",Technical,Low,Technical_2,hello i found a bug in the application
 834,I want to learn about your services,General,Low,General_2,i want to learn about your services
-204,the invoice amount is incorrect,Payment,Medium,Payment_5,the invoice amount is incorrect
-631,"Hello, my order is missing",Delivery,High,Delivery_5,hello my order is missing
-94,I cannot log into my account!,Account,Medium,Account_0,i cannot log into my account
-559,"Hello, the system is not responding",Technical,High,Technical_5,hello the system is not responding
+204,the invoice amount is incorrect,Payment,Low,Payment_5,the invoice amount is incorrect
+631,"Hello, my order is missing",Delivery,Medium,Delivery_5,hello my order is missing
+94,I cannot log into my account!,Account,Low,Account_0,i cannot log into my account
+559,"Hello, the system is not responding",Technical,Low,Technical_5,hello the system is not responding
 69,i cannot log into my account,Account,Low,Account_0,i cannot log into my account
-623,My package has not arrived please help ,Delivery,High,Delivery_3,my package has not arrived please help
-285,"Hello, i need a refund",Payment,Medium,Payment_2,hello i need a refund
+623,My package has not arrived please help ,Delivery,Low,Delivery_3,my package has not arrived please help
+285,"Hello, i need a refund",Payment,Low,Payment_2,hello i need a refund
 845,I have a general question,General,Low,General_6,i have a general question
-435,I cannot upload my file!,Technical,Medium,Technical_4,i cannot upload my file
-154,I need to update my profile!,Account,Medium,Account_4,i need to update my profile
-76,"Hello, i forgot my password",Account,Medium,Account_1,hello i forgot my password
+435,I cannot upload my file!,Technical,Low,Technical_4,i cannot upload my file
+154,I need to update my profile!,Account,Low,Account_4,i need to update my profile
+76,"Hello, i forgot my password",Account,Low,Account_1,hello i forgot my password
 731,I received the wrong product please help ,Delivery,Low,Delivery_2,i received the wrong product please help
 447,"Hello, i receive an unexpected error",Technical,Medium,Technical_6,hello i receive an unexpected error
-189,"Hello, i cannot verify my email",Account,Medium,Account_6,hello i cannot verify my email
-272,I cannot add my credit card please help ,Payment,Medium,Payment_4,i cannot add my credit card please help
-237,"Hello, i have a billing problem",Payment,Medium,Payment_7,hello i have a billing problem
-488,i found a bug in the application,Technical,Medium,Technical_2,i found a bug in the application
+189,"Hello, i cannot verify my email",Account,Low,Account_6,hello i cannot verify my email
+272,I cannot add my credit card please help ,Payment,Low,Payment_4,i cannot add my credit card please help
+237,"Hello, i have a billing problem",Payment,Low,Payment_7,hello i have a billing problem
+488,i found a bug in the application,Technical,Low,Technical_2,i found a bug in the application
 118,I need to update my profile,Account,Low,Account_4,i need to update my profile
 944,"Hello, where is your company located?",General,Low,General_3,hello where is your company located
-513,i found a bug in the application,Technical,High,Technical_2,i found a bug in the application
+513,i found a bug in the application,Technical,Low,Technical_2,i found a bug in the application
 826,Can you explain your pricing?,General,Low,General_5,can you explain your pricing
-592,I found a bug in the application!,Technical,Medium,Technical_2,i found a bug in the application
+592,I found a bug in the application!,Technical,Low,Technical_2,i found a bug in the application
 127,"Hello, my account has been locked",Account,Low,Account_2,hello my account has been locked
-117,I need to update my profile!,Account,Medium,Account_4,i need to update my profile
-474,I found a bug in the application,Technical,High,Technical_2,i found a bug in the application
-694,my delivery is delayed,Delivery,Low,Delivery_1,my delivery is delayed
-58,my account has been locked,Account,High,Account_2,my account has been locked
+117,I need to update my profile!,Account,Low,Account_4,i need to update my profile
+474,I found a bug in the application,Technical,Low,Technical_2,i found a bug in the application
+694,my delivery is delayed,Delivery,Medium,Delivery_1,my delivery is delayed
+58,my account has been locked,Account,Low,Account_2,my account has been locked
 864,"Hello, i have a general question",General,Low,General_6,hello i have a general question
 913,What are your working hours?!,General,Low,General_0,what are your working hours
 370,"Hello, my subscription payment failed",Payment,Medium,Payment_6,hello my subscription payment failed
-269,I need a refund,Payment,Medium,Payment_2,i need a refund
-47,My login is not working,Account,High,Account_7,my login is not working
-350,"Hello, i cannot add my credit card",Payment,High,Payment_4,hello i cannot add my credit card
-196,"Hello, i need to update my profile",Account,Medium,Account_4,hello i need to update my profile
+269,I need a refund,Payment,Low,Payment_2,i need a refund
+47,My login is not working,Account,Medium,Account_7,my login is not working
+350,"Hello, i cannot add my credit card",Payment,Low,Payment_4,hello i cannot add my credit card
+196,"Hello, i need to update my profile",Account,Low,Account_4,hello i need to update my profile
 1000,i have a general question,General,Low,General_6,i have a general question
 835,Can you explain your pricing?,General,Low,General_5,can you explain your pricing
 737,my order is missing,Delivery,Medium,Delivery_5,my order is missing
-264,I cannot add my credit card!,Payment,Medium,Payment_4,i cannot add my credit card
-444,"Hello, the website is loading slowly",Technical,High,Technical_1,hello the website is loading slowly
+264,I cannot add my credit card!,Payment,Low,Payment_4,i cannot add my credit card
+444,"Hello, the website is loading slowly",Technical,Low,Technical_1,hello the website is loading slowly
 676,I want to track my order,Delivery,Low,Delivery_4,i want to track my order
-305,"Hello, i cannot add my credit card",Payment,Medium,Payment_4,hello i cannot add my credit card
-342,"Hello, my subscription payment failed",Payment,High,Payment_6,hello my subscription payment failed
+305,"Hello, i cannot add my credit card",Payment,Low,Payment_4,hello i cannot add my credit card
+342,"Hello, my subscription payment failed",Payment,Medium,Payment_6,hello my subscription payment failed
 967,"Hello, i have a general question",General,Low,General_6,hello i have a general question
-150,I cannot verify my email,Account,High,Account_6,i cannot verify my email
+150,I cannot verify my email,Account,Low,Account_6,i cannot verify my email
 125,My account has been locked!,Account,Low,Account_2,my account has been locked
 787,My order is missing please help ,Delivery,Medium,Delivery_5,my order is missing please help
-51,My account has been locked!,Account,High,Account_2,my account has been locked
-354,The invoice amount is incorrect!,Payment,Medium,Payment_5,the invoice amount is incorrect
+51,My account has been locked!,Account,Low,Account_2,my account has been locked
+354,The invoice amount is incorrect!,Payment,Low,Payment_5,the invoice amount is incorrect
 928,Where is your company located?!,General,Low,General_3,where is your company located
 143,Someone accessed my account,Account,Low,Account_5,someone accessed my account
-471,The system is not responding!,Technical,Medium,Technical_5,the system is not responding
-400,I cannot add my credit card!,Payment,Medium,Payment_4,i cannot add my credit card
-626,my delivery is delayed,Delivery,Low,Delivery_1,my delivery is delayed
-321,my subscription payment failed,Payment,High,Payment_6,my subscription payment failed
-20,I cannot reset my password,Account,Medium,Account_3,i cannot reset my password
+471,The system is not responding!,Technical,Low,Technical_5,the system is not responding
+400,I cannot add my credit card!,Payment,Low,Payment_4,i cannot add my credit card
+626,my delivery is delayed,Delivery,Medium,Delivery_1,my delivery is delayed
+321,my subscription payment failed,Payment,Medium,Payment_6,my subscription payment failed
+20,I cannot reset my password,Account,Low,Account_3,i cannot reset my password
 810,where is your company located?,General,Low,General_3,where is your company located
 791,Where is my package?!,Delivery,Low,Delivery_0,where is my package
 809,"Hello, i have a general question",General,Low,General_6,hello i have a general question
-408,I cannot upload my file please help ,Technical,High,Technical_4,i cannot upload my file please help
-538,The application keeps crashing please help ,Technical,Medium,Technical_0,the application keeps crashing please help
+408,I cannot upload my file please help ,Technical,Low,Technical_4,i cannot upload my file please help
+538,The application keeps crashing please help ,Technical,Low,Technical_0,the application keeps crashing please help
 621,"Hello, my order is missing",Delivery,Medium,Delivery_5,hello my order is missing
 39,I forgot my password,Account,Low,Account_1,i forgot my password
-176,I cannot reset my password,Account,Medium,Account_3,i cannot reset my password
-246,I was charged twice!,Payment,High,Payment_1,i was charged twice
+176,I cannot reset my password,Account,Low,Account_3,i cannot reset my password
+246,I was charged twice!,Payment,Low,Payment_1,i was charged twice
 829,How can I contact support? please help ,General,Low,General_1,how can i contact support please help
 668,my package has not arrived,Delivery,Low,Delivery_3,my package has not arrived
-755,The delivery address is incorrect!,Delivery,Medium,Delivery_6,the delivery address is incorrect
+755,The delivery address is incorrect!,Delivery,Low,Delivery_6,the delivery address is incorrect
 859,What are your working hours?,General,Low,General_0,what are your working hours
-155,I cannot verify my email please help ,Account,Medium,Account_6,i cannot verify my email please help
-288,"Hello, the invoice amount is incorrect",Payment,Medium,Payment_5,hello the invoice amount is incorrect
+155,I cannot verify my email please help ,Account,Low,Account_6,i cannot verify my email please help
+288,"Hello, the invoice amount is incorrect",Payment,Low,Payment_5,hello the invoice amount is incorrect
 603,My order is missing please help ,Delivery,Medium,Delivery_5,my order is missing please help
-570,"Hello, i found a bug in the application",Technical,High,Technical_2,hello i found a bug in the application
-744,"Hello, where is my package?",Delivery,Medium,Delivery_0,hello where is my package
+570,"Hello, i found a bug in the application",Technical,Low,Technical_2,hello i found a bug in the application
+744,"Hello, where is my package?",Delivery,Low,Delivery_0,hello where is my package
 18,I cannot reset my password,Account,Low,Account_3,i cannot reset my password
-128,I cannot log into my account please help ,Account,Medium,Account_0,i cannot log into my account please help
+128,I cannot log into my account please help ,Account,Low,Account_0,i cannot log into my account please help
 323,My subscription payment failed,Payment,Medium,Payment_6,my subscription payment failed
-256,the invoice amount is incorrect,Payment,High,Payment_5,the invoice amount is incorrect
-658,"Hello, my package has not arrived",Delivery,Medium,Delivery_3,hello my package has not arrived
+256,the invoice amount is incorrect,Payment,Low,Payment_5,the invoice amount is incorrect
+658,"Hello, my package has not arrived",Delivery,Low,Delivery_3,hello my package has not arrived
 965,"Hello, i have a general question",General,Low,General_6,hello i have a general question
-191,"Hello, i cannot reset my password",Account,Medium,Account_3,hello i cannot reset my password
+191,"Hello, i cannot reset my password",Account,Low,Account_3,hello i cannot reset my password
 116,I cannot reset my password please help ,Account,Low,Account_3,i cannot reset my password please help
-617,"Hello, i want to track my order",Delivery,High,Delivery_4,hello i want to track my order
-607,my package arrived damaged,Delivery,Low,Delivery_7,my package arrived damaged
-181,i need to update my profile,Account,High,Account_4,i need to update my profile
-302,My subscription payment failed,Payment,High,Payment_6,my subscription payment failed
-760,Where is my package?!,Delivery,Medium,Delivery_0,where is my package
-713,My package has not arrived!,Delivery,High,Delivery_3,my package has not arrived
-724,"Hello, where is my package?",Delivery,Medium,Delivery_0,hello where is my package
-686,My package arrived damaged please help ,Delivery,Low,Delivery_7,my package arrived damaged please help
+617,"Hello, i want to track my order",Delivery,Low,Delivery_4,hello i want to track my order
+607,my package arrived damaged,Delivery,Medium,Delivery_7,my package arrived damaged
+181,i need to update my profile,Account,Low,Account_4,i need to update my profile
+302,My subscription payment failed,Payment,Medium,Payment_6,my subscription payment failed
+760,Where is my package?!,Delivery,Low,Delivery_0,where is my package
+713,My package has not arrived!,Delivery,Low,Delivery_3,my package has not arrived
+724,"Hello, where is my package?",Delivery,Low,Delivery_0,hello where is my package
+686,My package arrived damaged please help ,Delivery,Medium,Delivery_7,my package arrived damaged please help
 980,"Hello, where can i find your documentation?",General,Low,General_7,hello where can i find your documentation
-518,The website is loading slowly please help ,Technical,High,Technical_1,the website is loading slowly please help
+518,The website is loading slowly please help ,Technical,Low,Technical_1,the website is loading slowly please help
 985,how do i create an account?,General,Low,General_4,how do i create an account
 46,"Hello, i need to update my profile",Account,Low,Account_4,hello i need to update my profile
 910,How can I contact support?,General,Low,General_1,how can i contact support
-158,i cannot verify my email,Account,High,Account_6,i cannot verify my email
+158,i cannot verify my email,Account,Low,Account_6,i cannot verify my email
 852,How can I contact support?,General,Low,General_1,how can i contact support
 172,i cannot verify my email,Account,Low,Account_6,i cannot verify my email
-17,I need to update my profile!,Account,Medium,Account_4,i need to update my profile
-512,The system is not responding,Technical,Medium,Technical_5,the system is not responding
-49,I forgot my password please help ,Account,High,Account_1,i forgot my password please help
+17,I need to update my profile!,Account,Low,Account_4,i need to update my profile
+512,The system is not responding,Technical,Low,Technical_5,the system is not responding
+49,I forgot my password please help ,Account,Low,Account_1,i forgot my password please help
 972,I want to learn about your services please help ,General,Low,General_2,i want to learn about your services please help
 941,i want to learn about your services,General,Low,General_2,i want to learn about your services
-516,The website is loading slowly,Technical,Medium,Technical_1,the website is loading slowly
+516,The website is loading slowly,Technical,Low,Technical_1,the website is loading slowly
 953,"Hello, how do i create an account?",General,Low,General_4,hello how do i create an account
-481,The system is not responding,Technical,High,Technical_5,the system is not responding
-284,I cannot add my credit card!,Payment,High,Payment_4,i cannot add my credit card
-719,"Hello, the delivery address is incorrect",Delivery,High,Delivery_6,hello the delivery address is incorrect
+481,The system is not responding,Technical,Low,Technical_5,the system is not responding
+284,I cannot add my credit card!,Payment,Low,Payment_4,i cannot add my credit card
+719,"Hello, the delivery address is incorrect",Delivery,Low,Delivery_6,hello the delivery address is incorrect
 878,"Hello, where is your company located?",General,Low,General_3,hello where is your company located
-226,"Hello, i have a billing problem",Payment,Medium,Payment_7,hello i have a billing problem
-27,I cannot verify my email please help ,Account,High,Account_6,i cannot verify my email please help
+226,"Hello, i have a billing problem",Payment,Low,Payment_7,hello i have a billing problem
+27,I cannot verify my email please help ,Account,Low,Account_6,i cannot verify my email please help
 955,I have a general question!,General,Low,General_6,i have a general question
-438,the application keeps crashing,Technical,Medium,Technical_0,the application keeps crashing
+438,the application keeps crashing,Technical,Low,Technical_0,the application keeps crashing
 952,Where can I find your documentation?,General,Low,General_7,where can i find your documentation
-365,"Hello, i was charged twice",Payment,Medium,Payment_1,hello i was charged twice
-230,The invoice amount is incorrect,Payment,Medium,Payment_5,the invoice amount is incorrect
-38,My account has been locked!,Account,Medium,Account_2,my account has been locked
+365,"Hello, i was charged twice",Payment,Low,Payment_1,hello i was charged twice
+230,The invoice amount is incorrect,Payment,Low,Payment_5,the invoice amount is incorrect
+38,My account has been locked!,Account,Low,Account_2,my account has been locked
 966,I want to learn about your services!,General,Low,General_2,i want to learn about your services
-375,i have a billing problem,Payment,Medium,Payment_7,i have a billing problem
-470,The application stopped working!,Technical,High,Technical_7,the application stopped working
+375,i have a billing problem,Payment,Low,Payment_7,i have a billing problem
+470,The application stopped working!,Technical,Low,Technical_7,the application stopped working
 968,"Hello, i want to learn about your services",General,Low,General_2,hello i want to learn about your services
 851,Can you explain your pricing?,General,Low,General_5,can you explain your pricing
 705,my package has not arrived,Delivery,Low,Delivery_3,my package has not arrived
@@ -652,350 +652,350 @@ ticket_id,message,category,priority,template_id,cleaned_message
 195,"Hello, i cannot reset my password",Account,Low,Account_3,hello i cannot reset my password
 855,how can i contact support?,General,Low,General_1,how can i contact support
 865,How can I contact support?!,General,Low,General_1,how can i contact support
-504,The website is loading slowly please help ,Technical,High,Technical_1,the website is loading slowly please help
+504,The website is loading slowly please help ,Technical,Low,Technical_1,the website is loading slowly please help
 970,"Hello, i want to learn about your services",General,Low,General_2,hello i want to learn about your services
 831,Where is your company located?!,General,Low,General_3,where is your company located
-580,I receive an unexpected error!,Technical,High,Technical_6,i receive an unexpected error
+580,I receive an unexpected error!,Technical,Medium,Technical_6,i receive an unexpected error
 969,I want to learn about your services!,General,Low,General_2,i want to learn about your services
-163,my login is not working,Account,High,Account_7,my login is not working
+163,my login is not working,Account,Medium,Account_7,my login is not working
 909,What are your working hours? please help ,General,Low,General_0,what are your working hours please help
-153,Someone accessed my account,Account,High,Account_5,someone accessed my account
+153,Someone accessed my account,Account,Low,Account_5,someone accessed my account
 802,i have a general question,General,Low,General_6,i have a general question
 994,How do I create an account?,General,Low,General_4,how do i create an account
 756,"Hello, the delivery address is incorrect",Delivery,Low,Delivery_6,hello the delivery address is incorrect
-112,I cannot log into my account!,Account,Medium,Account_0,i cannot log into my account
-227,I cannot add my credit card please help ,Payment,High,Payment_4,i cannot add my credit card please help
-689,I received the wrong product,Delivery,High,Delivery_2,i received the wrong product
-104,"Hello, i need to update my profile",Account,Medium,Account_4,hello i need to update my profile
-422,The system is not responding,Technical,High,Technical_5,the system is not responding
-420,I cannot upload my file,Technical,High,Technical_4,i cannot upload my file
-751,The delivery address is incorrect please help ,Delivery,Medium,Delivery_6,the delivery address is incorrect please help
-587,the system is not responding,Technical,Medium,Technical_5,the system is not responding
+112,I cannot log into my account!,Account,Low,Account_0,i cannot log into my account
+227,I cannot add my credit card please help ,Payment,Low,Payment_4,i cannot add my credit card please help
+689,I received the wrong product,Delivery,Low,Delivery_2,i received the wrong product
+104,"Hello, i need to update my profile",Account,Low,Account_4,hello i need to update my profile
+422,The system is not responding,Technical,Low,Technical_5,the system is not responding
+420,I cannot upload my file,Technical,Low,Technical_4,i cannot upload my file
+751,The delivery address is incorrect please help ,Delivery,Low,Delivery_6,the delivery address is incorrect please help
+587,the system is not responding,Technical,Low,Technical_5,the system is not responding
 781,Where is my package?!,Delivery,Low,Delivery_0,where is my package
-673,"Hello, i received the wrong product",Delivery,High,Delivery_2,hello i received the wrong product
+673,"Hello, i received the wrong product",Delivery,Low,Delivery_2,hello i received the wrong product
 120,I cannot log into my account please help ,Account,Low,Account_0,i cannot log into my account please help
 54,Someone accessed my account please help ,Account,Low,Account_5,someone accessed my account please help
-152,I forgot my password please help ,Account,High,Account_1,i forgot my password please help
-404,"Hello, i receive an unexpected error",Technical,High,Technical_6,hello i receive an unexpected error
+152,I forgot my password please help ,Account,Low,Account_1,i forgot my password please help
+404,"Hello, i receive an unexpected error",Technical,Medium,Technical_6,hello i receive an unexpected error
 946,what are your working hours?,General,Low,General_0,what are your working hours
-208,My payment was declined please help ,Payment,High,Payment_0,my payment was declined please help
-659,My package arrived damaged please help ,Delivery,High,Delivery_7,my package arrived damaged please help
+208,My payment was declined please help ,Payment,Medium,Payment_0,my payment was declined please help
+659,My package arrived damaged please help ,Delivery,Medium,Delivery_7,my package arrived damaged please help
 844,I want to learn about your services!,General,Low,General_2,i want to learn about your services
-763,i want to track my order,Delivery,Medium,Delivery_4,i want to track my order
+763,i want to track my order,Delivery,Low,Delivery_4,i want to track my order
 9,I need to update my profile,Account,Low,Account_4,i need to update my profile
 808,How can I contact support? please help ,General,Low,General_1,how can i contact support please help
 37,I cannot verify my email please help ,Account,Low,Account_6,i cannot verify my email please help
 453,I receive an unexpected error please help ,Technical,Medium,Technical_6,i receive an unexpected error please help
 652,The delivery address is incorrect please help ,Delivery,Low,Delivery_6,the delivery address is incorrect please help
-254,I was charged twice,Payment,Medium,Payment_1,i was charged twice
-304,"Hello, i need a refund",Payment,Medium,Payment_2,hello i need a refund
-747,i want to track my order,Delivery,High,Delivery_4,i want to track my order
-572,I cannot upload my file please help ,Technical,High,Technical_4,i cannot upload my file please help
-624,I want to track my order,Delivery,Medium,Delivery_4,i want to track my order
+254,I was charged twice,Payment,Low,Payment_1,i was charged twice
+304,"Hello, i need a refund",Payment,Low,Payment_2,hello i need a refund
+747,i want to track my order,Delivery,Low,Delivery_4,i want to track my order
+572,I cannot upload my file please help ,Technical,Low,Technical_4,i cannot upload my file please help
+624,I want to track my order,Delivery,Low,Delivery_4,i want to track my order
 733,i received the wrong product,Delivery,Low,Delivery_2,i received the wrong product
 892,I have a general question please help ,General,Low,General_6,i have a general question please help
 263,"Hello, my subscription payment failed",Payment,Medium,Payment_6,hello my subscription payment failed
-611,my order is missing,Delivery,Low,Delivery_5,my order is missing
-298,My transaction is pending please help ,Payment,High,Payment_3,my transaction is pending please help
-415,I cannot upload my file please help ,Technical,High,Technical_4,i cannot upload my file please help
-151,I cannot reset my password please help ,Account,Medium,Account_3,i cannot reset my password please help
-789,my order is missing,Delivery,Low,Delivery_5,my order is missing
-641,My package has not arrived,Delivery,High,Delivery_3,my package has not arrived
+611,my order is missing,Delivery,Medium,Delivery_5,my order is missing
+298,My transaction is pending please help ,Payment,Low,Payment_3,my transaction is pending please help
+415,I cannot upload my file please help ,Technical,Low,Technical_4,i cannot upload my file please help
+151,I cannot reset my password please help ,Account,Low,Account_3,i cannot reset my password please help
+789,my order is missing,Delivery,Medium,Delivery_5,my order is missing
+641,My package has not arrived,Delivery,Low,Delivery_3,my package has not arrived
 890,"Hello, how do i create an account?",General,Low,General_4,hello how do i create an account
-551,"Hello, i cannot upload my file",Technical,Medium,Technical_4,hello i cannot upload my file
+551,"Hello, i cannot upload my file",Technical,Low,Technical_4,hello i cannot upload my file
 887,"Hello, where is your company located?",General,Low,General_3,hello where is your company located
-489,the application stopped working,Technical,High,Technical_7,the application stopped working
-148,"Hello, i forgot my password",Account,High,Account_1,hello i forgot my password
-147,"Hello, someone accessed my account",Account,High,Account_5,hello someone accessed my account
-721,I want to track my order,Delivery,Medium,Delivery_4,i want to track my order
+489,the application stopped working,Technical,Low,Technical_7,the application stopped working
+148,"Hello, i forgot my password",Account,Low,Account_1,hello i forgot my password
+147,"Hello, someone accessed my account",Account,Low,Account_5,hello someone accessed my account
+721,I want to track my order,Delivery,Low,Delivery_4,i want to track my order
 932,Can you explain your pricing?,General,Low,General_5,can you explain your pricing
 740,my package has not arrived,Delivery,Low,Delivery_3,my package has not arrived
 660,I want to track my order please help ,Delivery,Low,Delivery_4,i want to track my order please help
-349,I need a refund,Payment,High,Payment_2,i need a refund
-464,The application stopped working please help ,Technical,Medium,Technical_7,the application stopped working please help
-326,My transaction is pending please help ,Payment,High,Payment_3,my transaction is pending please help
-187,"Hello, i cannot reset my password",Account,High,Account_3,hello i cannot reset my password
-124,I forgot my password,Account,High,Account_1,i forgot my password
+349,I need a refund,Payment,Low,Payment_2,i need a refund
+464,The application stopped working please help ,Technical,Low,Technical_7,the application stopped working please help
+326,My transaction is pending please help ,Payment,Low,Payment_3,my transaction is pending please help
+187,"Hello, i cannot reset my password",Account,Low,Account_3,hello i cannot reset my password
+124,I forgot my password,Account,Low,Account_1,i forgot my password
 854,Can you explain your pricing? please help ,General,Low,General_5,can you explain your pricing please help
-609,The delivery address is incorrect!,Delivery,Medium,Delivery_6,the delivery address is incorrect
-144,i need to update my profile,Account,High,Account_4,i need to update my profile
+609,The delivery address is incorrect!,Delivery,Low,Delivery_6,the delivery address is incorrect
+144,i need to update my profile,Account,Low,Account_4,i need to update my profile
 959,I want to learn about your services please help ,General,Low,General_2,i want to learn about your services please help
-198,i cannot verify my email,Account,Medium,Account_6,i cannot verify my email
-610,my package has not arrived,Delivery,Medium,Delivery_3,my package has not arrived
-280,"Hello, i have a billing problem",Payment,High,Payment_7,hello i have a billing problem
-294,My subscription payment failed!,Payment,High,Payment_6,my subscription payment failed
+198,i cannot verify my email,Account,Low,Account_6,i cannot verify my email
+610,my package has not arrived,Delivery,Low,Delivery_3,my package has not arrived
+280,"Hello, i have a billing problem",Payment,Low,Payment_7,hello i have a billing problem
+294,My subscription payment failed!,Payment,Medium,Payment_6,my subscription payment failed
 401,I receive an unexpected error!,Technical,Medium,Technical_6,i receive an unexpected error
 123,I cannot verify my email!,Account,Low,Account_6,i cannot verify my email
 184,I forgot my password please help ,Account,Low,Account_1,i forgot my password please help
 203,My payment was declined please help ,Payment,Medium,Payment_0,my payment was declined please help
-439,the application shows a blank screen,Technical,Medium,Technical_3,the application shows a blank screen
-247,my transaction is pending,Payment,Medium,Payment_3,my transaction is pending
-416,the application shows a blank screen,Technical,Medium,Technical_3,the application shows a blank screen
+439,the application shows a blank screen,Technical,Low,Technical_3,the application shows a blank screen
+247,my transaction is pending,Payment,Low,Payment_3,my transaction is pending
+416,the application shows a blank screen,Technical,Low,Technical_3,the application shows a blank screen
 933,How do I create an account?,General,Low,General_4,how do i create an account
-766,My package has not arrived,Delivery,Medium,Delivery_3,my package has not arrived
+766,My package has not arrived,Delivery,Low,Delivery_3,my package has not arrived
 907,I have a general question!,General,Low,General_6,i have a general question
 836,"Hello, how can i contact support?",General,Low,General_1,hello how can i contact support
 888,can you explain your pricing?,General,Low,General_5,can you explain your pricing
-130,I cannot reset my password,Account,Medium,Account_3,i cannot reset my password
+130,I cannot reset my password,Account,Low,Account_3,i cannot reset my password
 638,My order is missing,Delivery,Medium,Delivery_5,my order is missing
-403,The website is loading slowly,Technical,High,Technical_1,the website is loading slowly
+403,The website is loading slowly,Technical,Low,Technical_1,the website is loading slowly
 785,The delivery address is incorrect!,Delivery,Low,Delivery_6,the delivery address is incorrect
-771,my package has not arrived,Delivery,High,Delivery_3,my package has not arrived
-736,my package has not arrived,Delivery,Medium,Delivery_3,my package has not arrived
+771,my package has not arrived,Delivery,Low,Delivery_3,my package has not arrived
+736,my package has not arrived,Delivery,Low,Delivery_3,my package has not arrived
 914,I have a general question please help ,General,Low,General_6,i have a general question please help
-220,The invoice amount is incorrect!,Payment,Medium,Payment_5,the invoice amount is incorrect
-642,my package arrived damaged,Delivery,High,Delivery_7,my package arrived damaged
+220,The invoice amount is incorrect!,Payment,Low,Payment_5,the invoice amount is incorrect
+642,my package arrived damaged,Delivery,Medium,Delivery_7,my package arrived damaged
 916,What are your working hours?,General,Low,General_0,what are your working hours
-753,"Hello, i received the wrong product",Delivery,High,Delivery_2,hello i received the wrong product
+753,"Hello, i received the wrong product",Delivery,Low,Delivery_2,hello i received the wrong product
 807,"Hello, how do i create an account?",General,Low,General_4,hello how do i create an account
 920,Where can I find your documentation?!,General,Low,General_7,where can i find your documentation
 625,My package arrived damaged!,Delivery,Medium,Delivery_7,my package arrived damaged
 875,How can I contact support? please help ,General,Low,General_1,how can i contact support please help
-761,The delivery address is incorrect!,Delivery,High,Delivery_6,the delivery address is incorrect
-387,my payment was declined,Payment,High,Payment_0,my payment was declined
+761,The delivery address is incorrect!,Delivery,Low,Delivery_6,the delivery address is incorrect
+387,my payment was declined,Payment,Medium,Payment_0,my payment was declined
 973,Where can I find your documentation?!,General,Low,General_7,where can i find your documentation
-510,"Hello, the application shows a blank screen",Technical,High,Technical_3,hello the application shows a blank screen
-268,my transaction is pending,Payment,High,Payment_3,my transaction is pending
+510,"Hello, the application shows a blank screen",Technical,Low,Technical_3,hello the application shows a blank screen
+268,my transaction is pending,Payment,Low,Payment_3,my transaction is pending
 820,what are your working hours?,General,Low,General_0,what are your working hours
-442,i found a bug in the application,Technical,Medium,Technical_2,i found a bug in the application
-497,"Hello, i cannot upload my file",Technical,High,Technical_4,hello i cannot upload my file
-113,i forgot my password,Account,Medium,Account_1,i forgot my password
-692,"Hello, the delivery address is incorrect",Delivery,High,Delivery_6,hello the delivery address is incorrect
-233,The invoice amount is incorrect please help ,Payment,Medium,Payment_5,the invoice amount is incorrect please help
+442,i found a bug in the application,Technical,Low,Technical_2,i found a bug in the application
+497,"Hello, i cannot upload my file",Technical,Low,Technical_4,hello i cannot upload my file
+113,i forgot my password,Account,Low,Account_1,i forgot my password
+692,"Hello, the delivery address is incorrect",Delivery,Low,Delivery_6,hello the delivery address is incorrect
+233,The invoice amount is incorrect please help ,Payment,Low,Payment_5,the invoice amount is incorrect please help
 870,"Hello, how do i create an account?",General,Low,General_4,hello how do i create an account
 608,My delivery is delayed,Delivery,Medium,Delivery_1,my delivery is delayed
-672,I received the wrong product,Delivery,High,Delivery_2,i received the wrong product
-374,the invoice amount is incorrect,Payment,Medium,Payment_5,the invoice amount is incorrect
+672,I received the wrong product,Delivery,Low,Delivery_2,i received the wrong product
+374,the invoice amount is incorrect,Payment,Low,Payment_5,the invoice amount is incorrect
 982,what are your working hours?,General,Low,General_0,what are your working hours
 843,"Hello, i have a general question",General,Low,General_6,hello i have a general question
-234,My payment was declined!,Payment,High,Payment_0,my payment was declined
-786,My package arrived damaged!,Delivery,High,Delivery_7,my package arrived damaged
-677,My package has not arrived!,Delivery,High,Delivery_3,my package has not arrived
+234,My payment was declined!,Payment,Medium,Payment_0,my payment was declined
+786,My package arrived damaged!,Delivery,Medium,Delivery_7,my package arrived damaged
+677,My package has not arrived!,Delivery,Low,Delivery_3,my package has not arrived
 318,my payment was declined,Payment,Medium,Payment_0,my payment was declined
-649,My package arrived damaged,Delivery,High,Delivery_7,my package arrived damaged
-411,The website is loading slowly please help ,Technical,High,Technical_1,the website is loading slowly please help
+649,My package arrived damaged,Delivery,Medium,Delivery_7,my package arrived damaged
+411,The website is loading slowly please help ,Technical,Low,Technical_1,the website is loading slowly please help
 899,How do I create an account?,General,Low,General_4,how do i create an account
 710,My delivery is delayed!,Delivery,Medium,Delivery_1,my delivery is delayed
-359,"Hello, i was charged twice",Payment,High,Payment_1,hello i was charged twice
-259,I was charged twice!,Payment,High,Payment_1,i was charged twice
+359,"Hello, i was charged twice",Payment,Low,Payment_1,hello i was charged twice
+259,I was charged twice!,Payment,Low,Payment_1,i was charged twice
 745,My package has not arrived!,Delivery,Low,Delivery_3,my package has not arrived
-628,my order is missing,Delivery,Low,Delivery_5,my order is missing
-633,I received the wrong product please help ,Delivery,High,Delivery_2,i received the wrong product please help
-283,My transaction is pending!,Payment,High,Payment_3,my transaction is pending
+628,my order is missing,Delivery,Medium,Delivery_5,my order is missing
+633,I received the wrong product please help ,Delivery,Low,Delivery_2,i received the wrong product please help
+283,My transaction is pending!,Payment,Low,Payment_3,my transaction is pending
 377,"Hello, my payment was declined",Payment,Medium,Payment_0,hello my payment was declined
-385,i cannot add my credit card,Payment,High,Payment_4,i cannot add my credit card
-225,I need a refund!,Payment,Medium,Payment_2,i need a refund
+385,i cannot add my credit card,Payment,Low,Payment_4,i cannot add my credit card
+225,I need a refund!,Payment,Low,Payment_2,i need a refund
 954,Can you explain your pricing?!,General,Low,General_5,can you explain your pricing
 815,Where can I find your documentation?,General,Low,General_7,where can i find your documentation
-473,The website is loading slowly please help ,Technical,High,Technical_1,the website is loading slowly please help
-348,my transaction is pending,Payment,Medium,Payment_3,my transaction is pending
-506,"Hello, i found a bug in the application",Technical,High,Technical_2,hello i found a bug in the application
-640,My package arrived damaged please help ,Delivery,High,Delivery_7,my package arrived damaged please help
+473,The website is loading slowly please help ,Technical,Low,Technical_1,the website is loading slowly please help
+348,my transaction is pending,Payment,Low,Payment_3,my transaction is pending
+506,"Hello, i found a bug in the application",Technical,Low,Technical_2,hello i found a bug in the application
+640,My package arrived damaged please help ,Delivery,Medium,Delivery_7,my package arrived damaged please help
 988,How can I contact support?!,General,Low,General_1,how can i contact support
 929,Where can I find your documentation? please help ,General,Low,General_7,where can i find your documentation please help
 906,Where can I find your documentation?!,General,Low,General_7,where can i find your documentation
-620,I received the wrong product please help ,Delivery,High,Delivery_2,i received the wrong product please help
+620,I received the wrong product please help ,Delivery,Low,Delivery_2,i received the wrong product please help
 856,how can i contact support?,General,Low,General_1,how can i contact support
 804,i want to learn about your services,General,Low,General_2,i want to learn about your services
 646,My package arrived damaged please help ,Delivery,Medium,Delivery_7,my package arrived damaged please help
 847,How can I contact support?,General,Low,General_1,how can i contact support
-557,The application stopped working,Technical,High,Technical_7,the application stopped working
+557,The application stopped working,Technical,Low,Technical_7,the application stopped working
 958,"Hello, can you explain your pricing?",General,Low,General_5,hello can you explain your pricing
-578,The website is loading slowly,Technical,Medium,Technical_1,the website is loading slowly
-796,My package arrived damaged please help ,Delivery,Low,Delivery_7,my package arrived damaged please help
-86,"Hello, my account has been locked",Account,Medium,Account_2,hello my account has been locked
-243,"Hello, the invoice amount is incorrect",Payment,Medium,Payment_5,hello the invoice amount is incorrect
-699,Where is my package? please help ,Delivery,High,Delivery_0,where is my package please help
-160,I cannot log into my account please help ,Account,Medium,Account_0,i cannot log into my account please help
-525,The application shows a blank screen!,Technical,Medium,Technical_3,the application shows a blank screen
-36,I need to update my profile!,Account,Medium,Account_4,i need to update my profile
-541,I cannot upload my file please help ,Technical,High,Technical_4,i cannot upload my file please help
-171,"Hello, i cannot reset my password",Account,Medium,Account_3,hello i cannot reset my password
-655,my package arrived damaged,Delivery,Low,Delivery_7,my package arrived damaged
+578,The website is loading slowly,Technical,Low,Technical_1,the website is loading slowly
+796,My package arrived damaged please help ,Delivery,Medium,Delivery_7,my package arrived damaged please help
+86,"Hello, my account has been locked",Account,Low,Account_2,hello my account has been locked
+243,"Hello, the invoice amount is incorrect",Payment,Low,Payment_5,hello the invoice amount is incorrect
+699,Where is my package? please help ,Delivery,Low,Delivery_0,where is my package please help
+160,I cannot log into my account please help ,Account,Low,Account_0,i cannot log into my account please help
+525,The application shows a blank screen!,Technical,Low,Technical_3,the application shows a blank screen
+36,I need to update my profile!,Account,Low,Account_4,i need to update my profile
+541,I cannot upload my file please help ,Technical,Low,Technical_4,i cannot upload my file please help
+171,"Hello, i cannot reset my password",Account,Low,Account_3,hello i cannot reset my password
+655,my package arrived damaged,Delivery,Medium,Delivery_7,my package arrived damaged
 891,Where is your company located? please help ,General,Low,General_3,where is your company located please help
 858,I have a general question,General,Low,General_6,i have a general question
 848,how do i create an account?,General,Low,General_4,how do i create an account
 945,"Hello, i have a general question",General,Low,General_6,hello i have a general question
-734,Where is my package? please help ,Delivery,Medium,Delivery_0,where is my package please help
+734,Where is my package? please help ,Delivery,Low,Delivery_0,where is my package please help
 96,i forgot my password,Account,Low,Account_1,i forgot my password
-564,The application shows a blank screen,Technical,High,Technical_3,the application shows a blank screen
-241,I have a billing problem!,Payment,Medium,Payment_7,i have a billing problem
-743,where is my package?,Delivery,High,Delivery_0,where is my package
-575,"Hello, the application shows a blank screen",Technical,High,Technical_3,hello the application shows a blank screen
-691,my package has not arrived,Delivery,High,Delivery_3,my package has not arrived
-461,The application stopped working!,Technical,Medium,Technical_7,the application stopped working
-554,I receive an unexpected error please help ,Technical,High,Technical_6,i receive an unexpected error please help
+564,The application shows a blank screen,Technical,Low,Technical_3,the application shows a blank screen
+241,I have a billing problem!,Payment,Low,Payment_7,i have a billing problem
+743,where is my package?,Delivery,Low,Delivery_0,where is my package
+575,"Hello, the application shows a blank screen",Technical,Low,Technical_3,hello the application shows a blank screen
+691,my package has not arrived,Delivery,Low,Delivery_3,my package has not arrived
+461,The application stopped working!,Technical,Low,Technical_7,the application stopped working
+554,I receive an unexpected error please help ,Technical,Medium,Technical_6,i receive an unexpected error please help
 889,I have a general question please help ,General,Low,General_6,i have a general question please help
-207,"Hello, i was charged twice",Payment,High,Payment_1,hello i was charged twice
-393,I have a billing problem!,Payment,High,Payment_7,i have a billing problem
+207,"Hello, i was charged twice",Payment,Low,Payment_1,hello i was charged twice
+393,I have a billing problem!,Payment,Low,Payment_7,i have a billing problem
 795,I received the wrong product,Delivery,Low,Delivery_2,i received the wrong product
-398,I was charged twice,Payment,Medium,Payment_1,i was charged twice
-767,The delivery address is incorrect!,Delivery,High,Delivery_6,the delivery address is incorrect
+398,I was charged twice,Payment,Low,Payment_1,i was charged twice
+767,The delivery address is incorrect!,Delivery,Low,Delivery_6,the delivery address is incorrect
 849,i have a general question,General,Low,General_6,i have a general question
-218,My transaction is pending,Payment,Medium,Payment_3,my transaction is pending
+218,My transaction is pending,Payment,Low,Payment_3,my transaction is pending
 5,I cannot log into my account,Account,Low,Account_0,i cannot log into my account
 769,"Hello, my package has not arrived",Delivery,Low,Delivery_3,hello my package has not arrived
-643,the delivery address is incorrect,Delivery,High,Delivery_6,the delivery address is incorrect
+643,the delivery address is incorrect,Delivery,Low,Delivery_6,the delivery address is incorrect
 930,Where can I find your documentation?,General,Low,General_7,where can i find your documentation
 613,My package arrived damaged please help ,Delivery,Medium,Delivery_7,my package arrived damaged please help
 739,The delivery address is incorrect!,Delivery,Low,Delivery_6,the delivery address is incorrect
-547,"Hello, the website is loading slowly",Technical,High,Technical_1,hello the website is loading slowly
-726,"Hello, my delivery is delayed",Delivery,Low,Delivery_1,hello my delivery is delayed
-684,My package arrived damaged!,Delivery,High,Delivery_7,my package arrived damaged
+547,"Hello, the website is loading slowly",Technical,Low,Technical_1,hello the website is loading slowly
+726,"Hello, my delivery is delayed",Delivery,Medium,Delivery_1,hello my delivery is delayed
+684,My package arrived damaged!,Delivery,Medium,Delivery_7,my package arrived damaged
 99,I cannot log into my account!,Account,Low,Account_0,i cannot log into my account
 805,Where is your company located?!,General,Low,General_3,where is your company located
-728,"Hello, i received the wrong product",Delivery,Medium,Delivery_2,hello i received the wrong product
-574,the website is loading slowly,Technical,High,Technical_1,the website is loading slowly
-407,"Hello, the system is not responding",Technical,Medium,Technical_5,hello the system is not responding
-503,The application stopped working please help ,Technical,High,Technical_7,the application stopped working please help
+728,"Hello, i received the wrong product",Delivery,Low,Delivery_2,hello i received the wrong product
+574,the website is loading slowly,Technical,Low,Technical_1,the website is loading slowly
+407,"Hello, the system is not responding",Technical,Low,Technical_5,hello the system is not responding
+503,The application stopped working please help ,Technical,Low,Technical_7,the application stopped working please help
 48,I need to update my profile!,Account,Low,Account_4,i need to update my profile
-33,"Hello, my login is not working",Account,High,Account_7,hello my login is not working
+33,"Hello, my login is not working",Account,Medium,Account_7,hello my login is not working
 780,My order is missing please help ,Delivery,Medium,Delivery_5,my order is missing please help
 840,What are your working hours? please help ,General,Low,General_0,what are your working hours please help
 201,My payment was declined,Payment,Medium,Payment_0,my payment was declined
 135,I cannot reset my password please help ,Account,Low,Account_3,i cannot reset my password please help
 28,I cannot reset my password please help ,Account,Low,Account_3,i cannot reset my password please help
 881,I have a general question please help ,General,Low,General_6,i have a general question please help
-231,the invoice amount is incorrect,Payment,Medium,Payment_5,the invoice amount is incorrect
-490,i found a bug in the application,Technical,High,Technical_2,i found a bug in the application
+231,the invoice amount is incorrect,Payment,Low,Payment_5,the invoice amount is incorrect
+490,i found a bug in the application,Technical,Low,Technical_2,i found a bug in the application
 773,"Hello, my package has not arrived",Delivery,Low,Delivery_3,hello my package has not arrived
-379,i was charged twice,Payment,High,Payment_1,i was charged twice
-289,The invoice amount is incorrect,Payment,High,Payment_5,the invoice amount is incorrect
-419,"Hello, the application shows a blank screen",Technical,High,Technical_3,hello the application shows a blank screen
-675,My package has not arrived please help ,Delivery,Medium,Delivery_3,my package has not arrived please help
-392,I have a billing problem please help ,Payment,High,Payment_7,i have a billing problem please help
-593,The application keeps crashing,Technical,High,Technical_0,the application keeps crashing
-499,The application shows a blank screen please help ,Technical,Medium,Technical_3,the application shows a blank screen please help
+379,i was charged twice,Payment,Low,Payment_1,i was charged twice
+289,The invoice amount is incorrect,Payment,Low,Payment_5,the invoice amount is incorrect
+419,"Hello, the application shows a blank screen",Technical,Low,Technical_3,hello the application shows a blank screen
+675,My package has not arrived please help ,Delivery,Low,Delivery_3,my package has not arrived please help
+392,I have a billing problem please help ,Payment,Low,Payment_7,i have a billing problem please help
+593,The application keeps crashing,Technical,Low,Technical_0,the application keeps crashing
+499,The application shows a blank screen please help ,Technical,Low,Technical_3,the application shows a blank screen please help
 139,i cannot reset my password,Account,Low,Account_3,i cannot reset my password
-63,"Hello, someone accessed my account",Account,High,Account_5,hello someone accessed my account
-472,I found a bug in the application,Technical,Medium,Technical_2,i found a bug in the application
-648,"Hello, my package has not arrived",Delivery,High,Delivery_3,hello my package has not arrived
+63,"Hello, someone accessed my account",Account,Low,Account_5,hello someone accessed my account
+472,I found a bug in the application,Technical,Low,Technical_2,i found a bug in the application
+648,"Hello, my package has not arrived",Delivery,Low,Delivery_3,hello my package has not arrived
 129,I cannot log into my account please help ,Account,Low,Account_0,i cannot log into my account please help
 977,I have a general question!,General,Low,General_6,i have a general question
-521,The website is loading slowly,Technical,Medium,Technical_1,the website is loading slowly
+521,The website is loading slowly,Technical,Low,Technical_1,the website is loading slowly
 839,I have a general question please help ,General,Low,General_6,i have a general question please help
 963,how can i contact support?,General,Low,General_1,how can i contact support
-65,I cannot reset my password,Account,Medium,Account_3,i cannot reset my password
+65,I cannot reset my password,Account,Low,Account_3,i cannot reset my password
 813,"Hello, i have a general question",General,Low,General_6,hello i have a general question
-15,My login is not working!,Account,Low,Account_7,my login is not working
-157,"Hello, i cannot reset my password",Account,High,Account_3,hello i cannot reset my password
+15,My login is not working!,Account,Medium,Account_7,my login is not working
+157,"Hello, i cannot reset my password",Account,Low,Account_3,hello i cannot reset my password
 41,I cannot verify my email!,Account,Low,Account_6,i cannot verify my email
-493,i receive an unexpected error,Technical,High,Technical_6,i receive an unexpected error
-380,My payment was declined please help ,Payment,High,Payment_0,my payment was declined please help
+493,i receive an unexpected error,Technical,Medium,Technical_6,i receive an unexpected error
+380,My payment was declined please help ,Payment,Medium,Payment_0,my payment was declined please help
 188,my account has been locked,Account,Low,Account_2,my account has been locked
 764,"Hello, my delivery is delayed",Delivery,Medium,Delivery_1,hello my delivery is delayed
-217,my subscription payment failed,Payment,High,Payment_6,my subscription payment failed
-792,My delivery is delayed,Delivery,Low,Delivery_1,my delivery is delayed
-53,My login is not working,Account,Low,Account_7,my login is not working
+217,my subscription payment failed,Payment,Medium,Payment_6,my subscription payment failed
+792,My delivery is delayed,Delivery,Medium,Delivery_1,my delivery is delayed
+53,My login is not working,Account,Medium,Account_7,my login is not working
 879,how can i contact support?,General,Low,General_1,how can i contact support
-338,I have a billing problem please help ,Payment,High,Payment_7,i have a billing problem please help
+338,I have a billing problem please help ,Payment,Low,Payment_7,i have a billing problem please help
 749,my order is missing,Delivery,Medium,Delivery_5,my order is missing
-720,Where is my package?!,Delivery,Medium,Delivery_0,where is my package
-725,My delivery is delayed!,Delivery,Low,Delivery_1,my delivery is delayed
-296,My transaction is pending!,Payment,Medium,Payment_3,my transaction is pending
-702,"Hello, i received the wrong product",Delivery,High,Delivery_2,hello i received the wrong product
-252,I cannot add my credit card,Payment,High,Payment_4,i cannot add my credit card
+720,Where is my package?!,Delivery,Low,Delivery_0,where is my package
+725,My delivery is delayed!,Delivery,Medium,Delivery_1,my delivery is delayed
+296,My transaction is pending!,Payment,Low,Payment_3,my transaction is pending
+702,"Hello, i received the wrong product",Delivery,Low,Delivery_2,hello i received the wrong product
+252,I cannot add my credit card,Payment,Low,Payment_4,i cannot add my credit card
 727,"Hello, i want to track my order",Delivery,Low,Delivery_4,hello i want to track my order
-462,The system is not responding please help ,Technical,High,Technical_5,the system is not responding please help
-456,The application shows a blank screen please help ,Technical,Medium,Technical_3,the application shows a blank screen please help
+462,The system is not responding please help ,Technical,Low,Technical_5,the system is not responding please help
+456,The application shows a blank screen please help ,Technical,Low,Technical_3,the application shows a blank screen please help
 997,Where can I find your documentation?,General,Low,General_7,where can i find your documentation
 816,what are your working hours?,General,Low,General_0,what are your working hours
 863,What are your working hours? please help ,General,Low,General_0,what are your working hours please help
-270,I have a billing problem!,Payment,Medium,Payment_7,i have a billing problem
-202,"Hello, i need a refund",Payment,High,Payment_2,hello i need a refund
-162,"Hello, someone accessed my account",Account,Medium,Account_5,hello someone accessed my account
-556,I found a bug in the application,Technical,High,Technical_2,i found a bug in the application
-730,The delivery address is incorrect,Delivery,High,Delivery_6,the delivery address is incorrect
-402,The application stopped working!,Technical,Medium,Technical_7,the application stopped working
-703,I want to track my order,Delivery,High,Delivery_4,i want to track my order
+270,I have a billing problem!,Payment,Low,Payment_7,i have a billing problem
+202,"Hello, i need a refund",Payment,Low,Payment_2,hello i need a refund
+162,"Hello, someone accessed my account",Account,Low,Account_5,hello someone accessed my account
+556,I found a bug in the application,Technical,Low,Technical_2,i found a bug in the application
+730,The delivery address is incorrect,Delivery,Low,Delivery_6,the delivery address is incorrect
+402,The application stopped working!,Technical,Low,Technical_7,the application stopped working
+703,I want to track my order,Delivery,Low,Delivery_4,i want to track my order
 477,"Hello, i receive an unexpected error",Technical,Medium,Technical_6,hello i receive an unexpected error
 822,Where can I find your documentation? please help ,General,Low,General_7,where can i find your documentation please help
-772,"Hello, my delivery is delayed",Delivery,Low,Delivery_1,hello my delivery is delayed
-106,I forgot my password,Account,High,Account_1,i forgot my password
-566,The website is loading slowly please help ,Technical,Medium,Technical_1,the website is loading slowly please help
+772,"Hello, my delivery is delayed",Delivery,Medium,Delivery_1,hello my delivery is delayed
+106,I forgot my password,Account,Low,Account_1,i forgot my password
+566,The website is loading slowly please help ,Technical,Low,Technical_1,the website is loading slowly please help
 390,my payment was declined,Payment,Medium,Payment_0,my payment was declined
 2,i need to update my profile,Account,Low,Account_4,i need to update my profile
 938,I want to learn about your services please help ,General,Low,General_2,i want to learn about your services please help
 983,How do I create an account?,General,Low,General_4,how do i create an account
-562,I found a bug in the application!,Technical,Medium,Technical_2,i found a bug in the application
+562,I found a bug in the application!,Technical,Low,Technical_2,i found a bug in the application
 81,my login is not working,Account,Medium,Account_7,my login is not working
-206,"Hello, i cannot add my credit card",Payment,Medium,Payment_4,hello i cannot add my credit card
-35,my account has been locked,Account,High,Account_2,my account has been locked
+206,"Hello, i cannot add my credit card",Payment,Low,Payment_4,hello i cannot add my credit card
+35,my account has been locked,Account,Low,Account_2,my account has been locked
 776,My order is missing please help ,Delivery,Medium,Delivery_5,my order is missing please help
 509,I receive an unexpected error!,Technical,Medium,Technical_6,i receive an unexpected error
-428,I cannot upload my file please help ,Technical,High,Technical_4,i cannot upload my file please help
-455,The website is loading slowly!,Technical,High,Technical_1,the website is loading slowly
+428,I cannot upload my file please help ,Technical,Low,Technical_4,i cannot upload my file please help
+455,The website is loading slowly!,Technical,Low,Technical_1,the website is loading slowly
 367,My payment was declined,Payment,Medium,Payment_0,my payment was declined
 92,i need to update my profile,Account,Low,Account_4,i need to update my profile
-340,"Hello, i cannot add my credit card",Payment,Medium,Payment_4,hello i cannot add my credit card
+340,"Hello, i cannot add my credit card",Payment,Low,Payment_4,hello i cannot add my credit card
 898,"Hello, where is your company located?",General,Low,General_3,hello where is your company located
-565,"Hello, i found a bug in the application",Technical,Medium,Technical_2,hello i found a bug in the application
+565,"Hello, i found a bug in the application",Technical,Low,Technical_2,hello i found a bug in the application
 346,My payment was declined!,Payment,Medium,Payment_0,my payment was declined
 777,My order is missing!,Delivery,Medium,Delivery_5,my order is missing
 242,My subscription payment failed!,Payment,Medium,Payment_6,my subscription payment failed
-14,I need to update my profile,Account,High,Account_4,i need to update my profile
-316,"Hello, the invoice amount is incorrect",Payment,Medium,Payment_5,hello the invoice amount is incorrect
+14,I need to update my profile,Account,Low,Account_4,i need to update my profile
+316,"Hello, the invoice amount is incorrect",Payment,Low,Payment_5,hello the invoice amount is incorrect
 601,my package arrived damaged,Delivery,Medium,Delivery_7,my package arrived damaged
-388,the invoice amount is incorrect,Payment,Medium,Payment_5,the invoice amount is incorrect
-274,"Hello, my transaction is pending",Payment,High,Payment_3,hello my transaction is pending
+388,the invoice amount is incorrect,Payment,Low,Payment_5,the invoice amount is incorrect
+274,"Hello, my transaction is pending",Payment,Low,Payment_3,hello my transaction is pending
 167,i need to update my profile,Account,Low,Account_4,i need to update my profile
 841,"Hello, where can i find your documentation?",General,Low,General_7,hello where can i find your documentation
 993,how can i contact support?,General,Low,General_1,how can i contact support
-647,"Hello, i received the wrong product",Delivery,High,Delivery_2,hello i received the wrong product
+647,"Hello, i received the wrong product",Delivery,Low,Delivery_2,hello i received the wrong product
 819,How can I contact support?!,General,Low,General_1,how can i contact support
-485,the system is not responding,Technical,High,Technical_5,the system is not responding
+485,the system is not responding,Technical,Low,Technical_5,the system is not responding
 981,I want to learn about your services,General,Low,General_2,i want to learn about your services
-505,I found a bug in the application please help ,Technical,Medium,Technical_2,i found a bug in the application please help
+505,I found a bug in the application please help ,Technical,Low,Technical_2,i found a bug in the application please help
 832,I have a general question!,General,Low,General_6,i have a general question
-244,I cannot add my credit card please help ,Payment,High,Payment_4,i cannot add my credit card please help
-567,the application stopped working,Technical,Medium,Technical_7,the application stopped working
+244,I cannot add my credit card please help ,Payment,Low,Payment_4,i cannot add my credit card please help
+567,the application stopped working,Technical,Low,Technical_7,the application stopped working
 876,how do i create an account?,General,Low,General_4,how do i create an account
 563,I receive an unexpected error please help ,Technical,Medium,Technical_6,i receive an unexpected error please help
-687,My delivery is delayed please help ,Delivery,Low,Delivery_1,my delivery is delayed please help
-190,"Hello, my login is not working",Account,Low,Account_7,hello my login is not working
+687,My delivery is delayed please help ,Delivery,Medium,Delivery_1,my delivery is delayed please help
+190,"Hello, my login is not working",Account,Medium,Account_7,hello my login is not working
 783,The delivery address is incorrect please help ,Delivery,Low,Delivery_6,the delivery address is incorrect please help
-700,my order is missing,Delivery,Low,Delivery_5,my order is missing
-476,The system is not responding please help ,Technical,Medium,Technical_5,the system is not responding please help
-682,I want to track my order!,Delivery,High,Delivery_4,i want to track my order
-511,the system is not responding,Technical,High,Technical_5,the system is not responding
-59,My login is not working!,Account,Low,Account_7,my login is not working
-475,"Hello, the application stopped working",Technical,High,Technical_7,hello the application stopped working
-561,"Hello, the system is not responding",Technical,High,Technical_5,hello the system is not responding
+700,my order is missing,Delivery,Medium,Delivery_5,my order is missing
+476,The system is not responding please help ,Technical,Low,Technical_5,the system is not responding please help
+682,I want to track my order!,Delivery,Low,Delivery_4,i want to track my order
+511,the system is not responding,Technical,Low,Technical_5,the system is not responding
+59,My login is not working!,Account,Medium,Account_7,my login is not working
+475,"Hello, the application stopped working",Technical,Low,Technical_7,hello the application stopped working
+561,"Hello, the system is not responding",Technical,Low,Technical_5,hello the system is not responding
 857,"Hello, i have a general question",General,Low,General_6,hello i have a general question
-748,My order is missing!,Delivery,High,Delivery_5,my order is missing
-253,i cannot add my credit card,Payment,Medium,Payment_4,i cannot add my credit card
-22,someone accessed my account,Account,Medium,Account_5,someone accessed my account
-314,my transaction is pending,Payment,Medium,Payment_3,my transaction is pending
-460,the website is loading slowly,Technical,Medium,Technical_1,the website is loading slowly
-161,"Hello, i cannot reset my password",Account,High,Account_3,hello i cannot reset my password
-277,I need a refund please help ,Payment,Medium,Payment_2,i need a refund please help
+748,My order is missing!,Delivery,Medium,Delivery_5,my order is missing
+253,i cannot add my credit card,Payment,Low,Payment_4,i cannot add my credit card
+22,someone accessed my account,Account,Low,Account_5,someone accessed my account
+314,my transaction is pending,Payment,Low,Payment_3,my transaction is pending
+460,the website is loading slowly,Technical,Low,Technical_1,the website is loading slowly
+161,"Hello, i cannot reset my password",Account,Low,Account_3,hello i cannot reset my password
+277,I need a refund please help ,Payment,Low,Payment_2,i need a refund please help
 956,I have a general question!,General,Low,General_6,i have a general question
-192,I cannot log into my account!,Account,Medium,Account_0,i cannot log into my account
-386,i cannot add my credit card,Payment,High,Payment_4,i cannot add my credit card
+192,I cannot log into my account!,Account,Low,Account_0,i cannot log into my account
+386,i cannot add my credit card,Payment,Low,Payment_4,i cannot add my credit card
 806,How do I create an account? please help ,General,Low,General_4,how do i create an account please help
 414,I receive an unexpected error,Technical,Medium,Technical_6,i receive an unexpected error
-492,The system is not responding!,Technical,High,Technical_5,the system is not responding
-344,I cannot add my credit card please help ,Payment,High,Payment_4,i cannot add my credit card please help
-770,My order is missing please help ,Delivery,Low,Delivery_5,my order is missing please help
+492,The system is not responding!,Technical,Low,Technical_5,the system is not responding
+344,I cannot add my credit card please help ,Payment,Low,Payment_4,i cannot add my credit card please help
+770,My order is missing please help ,Delivery,Medium,Delivery_5,my order is missing please help
 309,My subscription payment failed please help ,Payment,Medium,Payment_6,my subscription payment failed please help
 662,I received the wrong product please help ,Delivery,Low,Delivery_2,i received the wrong product please help
-131,I cannot verify my email!,Account,High,Account_6,i cannot verify my email
-664,My package arrived damaged please help ,Delivery,High,Delivery_7,my package arrived damaged please help
+131,I cannot verify my email!,Account,Low,Account_6,i cannot verify my email
+664,My package arrived damaged please help ,Delivery,Medium,Delivery_7,my package arrived damaged please help
 872,"Hello, i want to learn about your services",General,Low,General_2,hello i want to learn about your services
-100,I cannot verify my email!,Account,High,Account_6,i cannot verify my email
-373,My subscription payment failed please help ,Payment,High,Payment_6,my subscription payment failed please help
-88,i cannot log into my account,Account,Medium,Account_0,i cannot log into my account
-459,I found a bug in the application!,Technical,High,Technical_2,i found a bug in the application
-331,The invoice amount is incorrect please help ,Payment,Medium,Payment_5,the invoice amount is incorrect please help
-215,I need a refund please help ,Payment,High,Payment_2,i need a refund please help
-467,The application keeps crashing,Technical,Medium,Technical_0,the application keeps crashing
-122,My login is not working!,Account,High,Account_7,my login is not working
-615,my package arrived damaged,Delivery,Low,Delivery_7,my package arrived damaged
-21,"Hello, i need to update my profile",Account,High,Account_4,hello i need to update my profile
+100,I cannot verify my email!,Account,Low,Account_6,i cannot verify my email
+373,My subscription payment failed please help ,Payment,Medium,Payment_6,my subscription payment failed please help
+88,i cannot log into my account,Account,Low,Account_0,i cannot log into my account
+459,I found a bug in the application!,Technical,Low,Technical_2,i found a bug in the application
+331,The invoice amount is incorrect please help ,Payment,Low,Payment_5,the invoice amount is incorrect please help
+215,I need a refund please help ,Payment,Low,Payment_2,i need a refund please help
+467,The application keeps crashing,Technical,Low,Technical_0,the application keeps crashing
+122,My login is not working!,Account,Medium,Account_7,my login is not working
+615,my package arrived damaged,Delivery,Medium,Delivery_7,my package arrived damaged
+21,"Hello, i need to update my profile",Account,Low,Account_4,hello i need to update my profile
 701,"Hello, my delivery is delayed",Delivery,Medium,Delivery_1,hello my delivery is delayed
-72,my login is not working,Account,High,Account_7,my login is not working
-107,I cannot reset my password!,Account,Medium,Account_3,i cannot reset my password
-271,I cannot add my credit card,Payment,High,Payment_4,i cannot add my credit card
+72,my login is not working,Account,Medium,Account_7,my login is not working
+107,I cannot reset my password!,Account,Low,Account_3,i cannot reset my password
+271,I cannot add my credit card,Payment,Low,Payment_4,i cannot add my credit card
 861,How can I contact support?!,General,Low,General_1,how can i contact support
-436,I cannot upload my file,Technical,High,Technical_4,i cannot upload my file
-103,i cannot verify my email,Account,High,Account_6,i cannot verify my email
+436,I cannot upload my file,Technical,Low,Technical_4,i cannot upload my file
+103,i cannot verify my email,Account,Low,Account_6,i cannot verify my email

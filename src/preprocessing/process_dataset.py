@@ -2,6 +2,7 @@ import pandas as pd
 
 from pathlib import Path
 from text_preprocessor import clean_text
+from priority_labeler import assign_priority
 
 RAW_PATH = Path("data/raw/support_tickets.csv")
 PROCESSED_PATH = Path("data/processed/support_tikets_clean.csv")
@@ -15,6 +16,8 @@ df = df.dropna(subset=["message"]).copy()
 df["cleaned_message"] = df["message"].apply(clean_text)
 
 df = df[df["cleaned_message"] != ""].copy()
+
+df["priority"] = df["cleaned_message"].apply(assign_priority)
 
 PROCESSED_PATH.parent.mkdir(parents=True, exist_ok=True)
 
