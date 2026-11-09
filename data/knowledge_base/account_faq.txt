@@ -1,0 +1,11 @@
+
+ACCOUNT SUPPORT
+
+To reset your password, open the login page and select Forgot Password.
+Enter your registered email address and follow the password reset link.
+
+If you cannot access your account, first check that your email address
+and password are correct. If your account is locked, contact customer
+support for assistance.
+
+To protect your account, never share your password or verification code.

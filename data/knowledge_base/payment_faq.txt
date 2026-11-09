@@ -1,0 +1,12 @@
+
+PAYMENT SUPPORT
+
+If your payment is declined, check that your card details are correct
+and that your bank has authorized the transaction.
+
+If you are charged twice, save your transaction references and contact
+the billing support team. Do not repeat the payment until the issue
+has been investigated.
+
+Refund requests should include the transaction reference and reason
+for the refund.

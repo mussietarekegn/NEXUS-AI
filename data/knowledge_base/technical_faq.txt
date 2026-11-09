@@ -1,0 +1,11 @@
+
+TECHNICAL SUPPORT
+
+If the application crashes, restart it and check whether an update
+is available.
+
+If the website is loading slowly, check your internet connection
+and try refreshing the page.
+
+If you cannot upload a file, check its file type and size.
+If the problem continues, send the error message to technical support.
